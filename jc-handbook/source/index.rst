@@ -13,12 +13,12 @@ Welcome to James Craig Crew Handbook's documentation!
    about_the_fleet
    about_the_ship
 
-   mast_rigging
-   pins
-   seaboat
    special_duties
    ships_parties
-   fire
+   seaboat
+   emergencies/emergencies
+   mast_rigging
+   pins
    berthing_anchoring
    climbing
 
