@@ -385,6 +385,21 @@ The ship’s eyes aft.
 
 Also refer to Module 8.
 
+
+Duties - Man position adjacent to Dan Buoy on the port side of the
+quarter deck.
+
+-  Wear a safety harness.
+-  Inspect Dan Buoy, Life Ring and Marker Buoy to ensure they are not
+   damaged or tangled, and are connected together, and free to launch
+   quickly.
+-  Report any problems to the Watch Officer or Quarter Deck Watchleader.
+-  Carry out duties listed below.
+-  Maintain a lookout in **ALL** directions vis. Fore, Aft, Port,
+   Starboard as well as monitoring activity on board. Report to the
+   Officer of the Watch any unusual observations.
+
+
 This position is manned at all times while the ship is underway.
 
 One member of the crew is assigned to take over this position for **ALL

@@ -47,6 +47,91 @@ the OOW.
 
 
 
+
+
+The Fire Party is made up of a Leader and 4 crew, under the direction of
+an Officer.
+
+Duties for each party member are shown on the member’s crew card.
+
+Assembly point is the entrance to the crew deck house. Equipment is in
+bags under the bottom starboard bunk near the door.
+
+Fire Part radio is kept in the deckhouse. It is to be carried by the
+patrol party when doing their rounds. This radio also is the only radio
+which has a channel to the dockside security for guides and weekend
+maintenance.
+
+In addition to being on stand by, each hour the Leader of the party is
+to organise a patrol of all decks of the ship.
+
+The patrol will look out for;
+
+- fire hazards.
+
+- potential flood situations.
+
+- anything that may affect the security of the ship or passengers /crew.
+
+- check refrigeration is on.
+
+- report any anomalies to the Officer of the Watch.
+
+- record the patrol in the log.
+
+Members of the fire party DO NOT CLIMB.
+
+**GUIDE FOR FIRE PARTY LEADER**
+
+- Establish fire party meeting point.
+
+- Brief fire party and check that they know their respective roles.
+
+- Check all equipment;
+
+Protective clothing.
+
+Torch
+
+Hose reels
+
+Fire extinguishers
+
+Fire buckets
+
+Radio
+
+- Walk the ship each hour, main deck, ‘tween deck, hold and all closed
+compartments i.e. engine room, etc. Start patrol at chart room by
+checking the log for possible hazards etc noted by previous patrol.
+
+- Fire party/patrol radio lives in the deckhouse. Patrol collects the
+radio at commencement of patrol and returns it to the deckhouse after
+completing patrol. This enables the patrol to immediately report any
+problems they find to the Officer of the Watch.
+
+- Look out for potential hazards and fix/report.
+
+- Fire extinguishers and hose reels are not obstructed.
+
+- Fire station clear.
+
+- When in the hold - check for flooding
+
+- check ballast blocks for movement
+
+- Fire doors and escape hatches are not obstructed.
+
+- “Exit” lights are lit and not obscured.
+
+- Note completion of the patrol in the log in the chart room.
+
+- Report to officer of the watch when patrol has been completed.
+
+- Return Radio to its holder in the deck house.
+
+
+
 Shore/berthing Party
 ====================
 
