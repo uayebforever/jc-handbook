@@ -10,13 +10,9 @@ On completion of this module you will have an understanding of the
 ship’s;
 
 -  spars
-
 -  masts and yards
-
 -  standing rigging.
-
 -  running rigging for spars and sails.
-
 -  parts of typical square and fore and aft sails.
 
 Overview
@@ -31,34 +27,26 @@ Annexure C contains blank diagrams that can be used to aid in memorising
 the names of Masts, Rigging and Sails.
 
 Qualified crew (Deckhands, Efficient Deckhands) need to be able to
-name:-
+name:
 
-    - ship’s spars
-
-    - parts of the standing rigging
-
-    - ship's sails
-
-    - sail parts
-
-    - the lines that control the sails & spars (running rigging) and
-    where they are located pin rails.( Refer Module 5 – pages 22 to 24).
+* ship’s spars
+* parts of the standing rigging
+* ship's sails
+* sail parts
+* the lines that control the sails & spars (running rigging) and
+  where they are located pin rails.( Refer Module 5 – pages 22 to 24).
 
 Although the above may seem formidable, a structured and systematic
 approach to learning will facilitate the process.
 
-This will involve:-
+This will involve:
 
-- identify spars
+* identify spars
 
-    - identifying the rigging as standing, running and other (flag
-    halyards,
-
-    gantlines), on fore, main and mizzen masts and jibboom.
-
-    - observing the principles and patterns that govern where lines fall
-
-    utilising 'tools' such as these notes, rigging and pin diagrams.
+    * identifying the rigging as standing, running and other (flag
+      halyards, gantlines), on fore, main and mizzen masts and jibboom.
+    * observing the principles and patterns that govern where lines fall
+    * utilising 'tools' such as these notes, rigging and pin diagrams.
 
 **Assessment:**
 
@@ -135,24 +123,15 @@ utmost importance that the ship is not caught aback, i.e. head to wind.
 
 The following diagrams show;
 
-- Spars and the names they receive when they are in position.
-
-- Standing rigging – shrouds and backstays to provide thwart ship and
-forward
-
-and aft stability for the masts..
-
-- Standing rigging viewed from ahead
-
-- Standing rigging – fore stays to prevent aft movement of the masts.
-
-- Standing rigging for the bowsprit and jiboom.
-
-- Running rigging for yards, boom and gaff
-
-- Hoisting yards.
-
-- Trimming yards.
+* Spars and the names they receive when they are in position.
+* Standing rigging – shrouds and backstays to provide thwart ship and
+  forward and aft stability for the masts..
+* Standing rigging viewed from ahead
+* Standing rigging – fore stays to prevent aft movement of the masts.
+* Standing rigging for the bowsprit and jiboom.
+* Running rigging for yards, boom and gaff
+* Hoisting yards.
+* Trimming yards.
 
 |image0|
 
@@ -193,7 +172,6 @@ lowered, by their lifts (standing rigging).
 Each yard is hoisted by a halyard (running rigging). The yard is
 attached to the mast by a parral that slides on the mast.
 
-\\
 
 **SAILS.**
 
@@ -203,7 +181,7 @@ Module 7 will cover sail handling in more detail.
 
 Refer to page 13 for the sail plan.
 
-**Square sails running rigging. **
+**Square sails running rigging.**
 
 The head of a sail is lashed with robands to the jackstay on the yard.
 

@@ -17,6 +17,8 @@ Welcome to James Craig Crew Handbook's documentation!
    ships_parties
    seaboat
    emergencies/emergencies
+
+.. coment::
    mast_rigging
    pins
    berthing_anchoring

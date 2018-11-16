@@ -93,13 +93,9 @@ Each team member’s duties are listed on their crew card. The remainder
 of the ship’s crew act as ordered. They may be also required to assist
 in recovery.
 
-#. .. rubric:: Sea Boat layout
-      :name: sea-boat-layout
-
-   .. rubric:: Preparation and operation of the Sea Boat – refer Module
-      12. For the position of Boat Rope, Painter and Painter Pendent
-      refer to separate diagrams on pages 8, 9 and 10.
-      :name: preparation-and-operation-of-the-sea-boat-refer-module-12.-for-the-position-of-boat-rope-painter-and-painter-pendent-refer-to-separate-diagrams-on-pages-8-9-and-10.
+Preparation and operation of the Sea Boat – refer Module 12. For the position
+of Boat Rope, Painter and Painter Pendent refer to separate diagrams on pages
+8, 9 and 10.
 
 View of Ship’s Port side. (Boat stowed)
 
@@ -113,15 +109,15 @@ NOTE. (Also refer attached diagram.)
 is working alongside the ship)leads forward and is secured to a metal
 pin forward of the foremast shrouds.
 
-The painter has two positions marked;
+The painter has two positions marked:
 
 1. Long mark (Ladder mark – long canvas strip on the painter), when used
-       this will position the sea boat under the boarding ladder.
+   this will position the sea boat under the boarding ladder.
 
-    It also allows the sea boat to be hoisted and stowed in its cradle.
+   It also allows the sea boat to be hoisted and stowed in its cradle.
 
-    2. Short mark (Davit mark – short canvas strip on the painter), this
-    will position the sea boat under the davit fall.
+2. Short mark (Davit mark – short canvas strip on the painter), this
+   will position the sea boat under the davit fall.
 
 For launch, the painter must be on the long mark and moved to the short
 mark as soon as the boat is swung out. The reverse applies when
@@ -300,11 +296,7 @@ cradle.
 
 #. Check that sea boat is ready for next launch.
 
-#. .. rubric:: 
-      :name: section
-
-   .. rubric:: ORDER AND *ACTION*;
-      :name: order-and-action
+ORDER AND *ACTION*;
 
 ***LAUNCH***
 
@@ -363,11 +355,7 @@ Haul taut painter pendent to control the swing of the sea boat
 
 *Haul taut after davit guy*
 
-#. .. rubric:: 
-      :name: section-1
-
-   .. rubric:: “Well”
-      :name: well
+“Well”
 
 *Avast hauling on fall.*
 
@@ -391,23 +379,15 @@ Haul taut painter pendent to control the swing of the sea boat
     *Be prepared to work (ease and haul) the aft bowsing line as
     required.*
 
-#. .. rubric:: 
-      :name: section-2
-
-   .. rubric:: “Well”
-      :name: well-1
-
+    “Well”
+    
     *Make fast davit forward guy*
 
 *Haul painter - Make fast on pin at "Short" mark*
 
 *Turn up davit after guy*
 
-#. .. rubric:: 
-      :name: section-3
-
-   .. rubric:: “Lower to the Rail”
-      :name: lower-to-the-rail
+“Lower to the Rail”
 
     *Painter on the short mark*
 
@@ -460,11 +440,8 @@ lower the boat.**
 
     *Boat now towed by ship on painter.*
 
-#. .. rubric:: 
-      :name: section-4
+    “Slip”
 
-   .. rubric:: “Slip”
-      :name: slip
 
 *Coxswain has command of the sea boat*
 
@@ -547,11 +524,7 @@ Additional control provided by painter pendent
 
     *Hold painter on pin to 'Long' mark with three turns*
 
-#. .. rubric:: 
-      :name: section-5
-
-   .. rubric:: “Well”
-      :name: well-2
+    “Well”
 
 *Confirm boat is alongside ladder *
 
