@@ -393,16 +393,5 @@ Considerations when the Fire has been Extinguished:
 
 
 
-.. |firetriangle| image:: ../images/fire/Fire_triangle.*
-.. |image1| image:: ../images/fire/media/image2.png
-   :width: 5.77083in
-   :height: 2.85000in
-.. |image2| image:: ../images/fire/media/image3.png
-   :width: 5.76181in
-   :height: 2.50069in
-.. |image3| image:: ../images/fire/media/image4.png
-   :width: 5.75694in
-   :height: 2.56181in
-.. |image5| image:: ../images/fire/media/image6.jpeg
-   :width: 6.72292in
-   :height: 7.31042in
+.. |firetriangle| image:: images/Fire_triangle.*
+
