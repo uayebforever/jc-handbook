@@ -1,12 +1,46 @@
-****************************
-Sea Boat Launch And Recovery
-****************************
+****************************************************
+Man Overboard (mob) And Sea Boat Launch And Recovery 
+****************************************************
+
+**Aim:**
+
+To cover - Initial response by any person in the event of a Man
+Overboard situation.
+
+    - Duties of a crew member carrying out MOB and Aft Lookout watch.
+    - Sea boat and layout.
+    - Launch and recovery of sea boat.
+    - Sea boat launch and recovery orders and action.
+    - Painter, painter pennant and boat rope layout.
+    - Sea Boat launch in a seaway – some factors to be consider.
+
+**Overview:**
+
+The sea boat is a very important piece of ship’s equipment. In addition
+to its possible role in MOB situations it can be used in many other
+tasks i.e. mooring lines, transfer of personnel etc. Therefore crew must
+be capable of safely and efficiently launching and recovering the boat.
+Practice through drills, and information in this module will assist crew
+members to gain proficiency.
+
+**Assessment:**
+
+Oral and practical examination by a Mate and/or Watchleader who will,
+when satisfied, sign off the relevant parts in crew member’s ‘Diary of
+Service and Experience Log’ book.
+
+**Outcome:**
+
+For crew to be able to carry out MOB and Aft Lookout watch and assemble
+to safely launch the sea boat with the James Craig underway at up to 8
+knots.
 
 
 
 
-About the Sea Boat
-==================
+
+Sea Boat
+========
 
 The Sea Boat is a semi rigid inflatable boat manned by a Coxswain and
 one Crew. The Coxswain is in command of the Sea Boat and with Crew
@@ -84,12 +118,6 @@ Launch And Recovery Of The Sea Boat
 
 Launch/Recovery Team and Duties
 -------------------------------
-
-
-
-
-
-
 
 Refer to next section for associated orders & action.
 

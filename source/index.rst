@@ -10,24 +10,17 @@ Welcome to James Craig Crew Handbook's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   about_the_fleet
    about_the_ship
 
-   alarms_and_emergencies
-
-   line_handling
-
-   pins
-
    special_duties
-   
-
    ships_parties
    seaboat
    emergencies/emergencies
 
 .. coment::
-   about_the_fleet
    mast_rigging
+   pins
    berthing_anchoring
    climbing
 
