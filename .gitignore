@@ -1,4 +1,5 @@
 /jc-handbook/build
-astropy_sphinx_theme/
+astropy-sphinx-theme-master/
 media/
 *.zip
+build/
