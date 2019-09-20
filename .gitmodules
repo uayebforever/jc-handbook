@@ -1,3 +1,3 @@
-[submodule "jc-handbook/source/_templates/astropy-sphinx-theme"]
-	path = jc-handbook/source/_templates/astropy-sphinx-theme
+[submodule "source/_templates/astropy-sphinx-theme"]
+	path = source/_templates/astropy-sphinx-theme
 	url = https://github.com/astropy/astropy-sphinx-theme.git
