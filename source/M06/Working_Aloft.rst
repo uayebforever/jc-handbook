@@ -1,6 +1,8 @@
 **MODULE 6.**
 
-**WORKING ALOFT.**
+*************
+Working Aloft
+*************
 
 **Aim:**
 

@@ -1,11 +1,8 @@
-#. .. rubric:: MODULE 9.
-      :name: module-9.
+MODULE 9.
 
-   .. rubric:: 
-      :name: section
-
-   #. .. rubric:: **SLIPPING, BERTHING & MOORING**
-         :name: slipping-berthing-mooring
+****************************
+Slipping, Berthing & Mooring
+****************************
 
 **Aim:**
 

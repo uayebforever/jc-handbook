@@ -1,6 +1,8 @@
 **MODULE 2.**
 
-**WORK HEALTH AND SAFETY.**
+**********************
+Work Health and Safety
+**********************
 
 **Aim:**
 

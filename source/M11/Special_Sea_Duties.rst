@@ -1,6 +1,8 @@
 **MODULE 11.**
 
-**SPECIAL SEA DUTIES**
+******************
+Special Sea Duties
+******************
 
 **Aim:**
 

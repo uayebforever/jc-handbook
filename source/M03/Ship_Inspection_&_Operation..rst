@@ -1,6 +1,9 @@
 **MODULE 3.**
 
-**SHIP INSPECTION & OPERATION**
+
+***************************
+Ship Inspection & Operation
+***************************
 
 **Aim:**
 

@@ -1,8 +1,8 @@
-#. .. rubric:: MODULE 4.
-      :name: module-4.
+MODULE 4.
 
-   .. rubric:: MASTS & RIGGING
-      :name: masts-rigging
+***************
+Masts & Rigging
+***************
 
 **Aim:**
 

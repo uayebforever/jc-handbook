@@ -1,6 +1,8 @@
 **MODULE 8.**
 
-**MAN OVERBOARD (MOB) AND SEA BOAT LAUNCH AND RECOVERY**
+****************************************************
+Man Overboard (MOB) And Sea Boat Launch And Recovery
+****************************************************
 
 **Aim:**
 

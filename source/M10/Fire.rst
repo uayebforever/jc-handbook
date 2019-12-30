@@ -1,6 +1,8 @@
 **MODULE 10.**
 
-**FIRE FIGHTING**
+*************
+Fire Fighting
+*************
 
 **Aim:**
 
