@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'James Craig Crew Handbook'
+project = u'James Craig'
 copyright = u'2018, many'
 author = u'many'
 
