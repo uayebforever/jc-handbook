@@ -10,20 +10,26 @@ Welcome to James Craig documentation!
 Crew Handbook
 -------------
 
+:doc:`Crew Handbook Home <handbook/handbook>`
+
+.. toctree::
+   :maxdepth: 1
+
+   handbook/M01/Meet_the_Fleet.rst
+   handbook/M02/Work_Health_&_Safety.rst
+   handbook/M03/Ship_Inspection_&_Operation..rst
+   handbook/M04/Masts_&_Rigging.rst
+   handbook/M05/Pins_&_Ropework.rst
+   handbook/M06/Working_Aloft.rst
+   handbook/M07/Setting_the_sails
+   handbook/M08/MOB_and_Sea_Boat_Launch_&_Recovery.rst
+   handbook/M09/Slipping,_Berthing_and_Mooring.rst
+   handbook/M10/Fire.rst
+   handbook/M11/Special_Sea_Duties.rst
+
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
-   M01/Meet_the_Fleet.rst
-   M02/Work_Health_&_Safety.rst
-   M03/Ship_Inspection_&_Operation..rst
-   M04/Masts_&_Rigging.rst
-   M05/Pins_&_Ropework.rst
-   M06/Working_Aloft.rst
-   M08/MOB_and_Sea_Boat_Launch_&_Recovery.rst
-   M09/Slipping,_Berthing_and_Mooring.rst
-   M10/Fire.rst
-   M11/Special_Sea_Duties.rst
 
 .. coment::
    mast_rigging
