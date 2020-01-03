@@ -42,7 +42,9 @@ For crew to be able to carry out MOB and Aft Lookout watch and assemble
 to safely launch the sea boat with the James Craig underway at up to 8
 knots.
 
-**INITIAL RESPONSE TO MAN OVERBOARD (MOB)**
+
+Initial Response To Man Overboard (mob)
+=======================================
 
 Any member of the ship’s company, on seeing a person fall overboard,
 calls out “Man Overboard” indicating side e.g. Port or Starboard, and
@@ -53,12 +55,17 @@ relieved.
 The Ship’s Master will decide to order the launch of the Sea Boat. Page
 14 deals with some of the factors he will have to contend with.
 
-**CREW ON STERN LOOKOUT WATCH (MOB WATCH)**
 
-Duties - Man position adjacent to Dan Buoy on the port side of the
-quarter deck.
+Crew On Stern Lookout Watch (mob Watch)
+=======================================
 
--  Wear a safety harness.
+
+Duties:
+
+- Man position adjacent to Dan Buoy on the port side of the
+  quarter deck.
+
+- Wear a safety harness.
 
 -  Inspect Dan Buoy, Life Ring and Marker Buoy to ensure they are not
    damaged or tangled, and are connected together, and free to launch
@@ -72,21 +79,22 @@ quarter deck.
    Starboard as well as monitoring activity on board. Report to the
    Officer of the Watch any unusual observations.
 
-. On hearing the alarm or observing a person falling overboard, launch
-the Dan Buoy, life ring and smoke/light marker.
+- On hearing the alarm or observing a person falling overboard, launch
+  the Dan Buoy, life ring and smoke/light marker.
 
-. Point at the person in the water until relieved.
+- Point at the person in the water until relieved.
 
-.When relieved, climb the Mizzen Shrouds and re-establish visual contact
-with the person in the water and point.
+- When relieved, climb the Mizzen Shrouds and re-establish visual contact
+  with the person in the water and point.
 
-. Signal the direction to the person in the water to the sea boat crew.
-Be aware that the Dan Buoy may not be near the person in the water.
+- Signal the direction to the person in the water to the sea boat crew.
+  Be aware that the Dan Buoy may not be near the person in the water.
 
-. Remain in the shrouds until the sea boat has returned and is safely
-stowed on the ship or when relieved.
+- Remain in the shrouds until the sea boat has returned and is safely
+  stowed on the ship or when relieved.
 
-**SEA BOAT**
+Sea Boat
+========
 
 The Sea Boat is a semi rigid inflatable boat manned by a Coxswain and
 one Crew. The Coxswain is in command of the Sea Boat and with Crew
@@ -98,13 +106,11 @@ Each team member’s duties are listed on their crew card. The remainder
 of the ship’s crew act as ordered. They may be also required to assist
 in recovery.
 
-#. .. rubric:: Sea Boat layout
-      :name: sea-boat-layout
+Sea Boat layout
+---------------
 
-   .. rubric:: Preparation and operation of the Sea Boat – refer Module
-      12. For the position of Boat Rope, Painter and Painter Pendent
-      refer to separate diagrams on pages 8, 9 and 10.
-      :name: preparation-and-operation-of-the-sea-boat-refer-module-12.-for-the-position-of-boat-rope-painter-and-painter-pendent-refer-to-separate-diagrams-on-pages-8-9-and-10.
+Preparation and operation of the Sea Boat – refer Module\ 12. For the position of Boat Rope, Painter and Painter Pendent
+refer to separate diagrams on pages 8, 9 and 10.
 
 View of Ship’s Port side. (Boat stowed)
 
@@ -121,14 +127,12 @@ forward of the foremast shrouds.
 The painter has two positions marked;
 
 1. Long mark (Ladder mark – long canvas strip on the painter), when used
-       this will position the sea boat under the boarding ladder.
+   this will position the sea boat under the boarding ladder.
 
-..
+   It also allows the sea boat to be hoisted and stowed in its cradle.
 
-    It also allows the sea boat to be hoisted and stowed in its cradle.
-
-    2. Short mark (Davit mark – short canvas strip on the painter), this
-    will position the sea boat under the davit fall.
+2. Short mark (Davit mark – short canvas strip on the painter), this
+   will position the sea boat under the davit fall.
 
 For launch, the painter must be on the long mark and moved to the short
 mark as soon as the boat is swung out. The reverse applies when
@@ -163,17 +167,18 @@ boat skids.
     Both lines are worked together to control the stern of the Sea Boat,
     refer to the next section.
 
-**LAUNCH AND RECOVERY OF THE SEA BOAT**
+Launch And Recovery Of The Sea Boat
+===================================
 
-**Launch/Recovery Team and Duties**.
+Launch/Recovery Team and Duties
+-------------------------------
 
 Refer to next section for associated orders & action.
 
-**Launch:**
+Launch
+^^^^^^
 
 1. Officer/Watchleader.
-
-..
 
     Control of the launch and recovery operations.
 
@@ -193,8 +198,6 @@ Refer to next section for associated orders & action.
 
 2. Davit After Guy Hand.
 
-..
-
     Use guy to control the movement of the davit.
 
     Guy has a set mark to maximum travel for launch. Approx 45 degrees.
@@ -204,22 +207,20 @@ Refer to next section for associated orders & action.
 
     When Davit is in position and Guy secure, assist on the fall.
 
-Use guy to swing davit inboard during boat recovery.
+    Use guy to swing davit inboard during boat recovery.
 
-Tension and secure on completion of operation.
+    Tension and secure on completion of operation.
 
 3. Aft Bowsing Line Hand. (Wear climbing harness)
-
-..
 
     Attach climbing harness to strong point if it becomes necessary to
     go up to the Sea Boat platform.
 
-Clear gripes from sea boat.
+    Clear gripes from sea boat.
 
-Return to the deck and lead the aft bowsing line outboard of the aft
-davit onto the quarter deck to control the stern of the sea boat. It may
-be necessary to take a turn around the davit.
+    Return to the deck and lead the aft bowsing line outboard of the aft
+    davit onto the quarter deck to control the stern of the sea boat. It may
+    be necessary to take a turn around the davit.
 
     Use bowsing line to swing boat and control its movement outboard
     when launching.
@@ -227,35 +228,33 @@ be necessary to take a turn around the davit.
     Be alert for excessive swing if the ship is rolling and keep the
     line taut.
 
-When recovering the sea boat take the bowsing line off the davit and
-lead inboard to control the sea boat swing during recovery. Work with
-the forward bowsing line hand to control and position the sea boat over
-its cradle.
+    When recovering the sea boat take the bowsing line off the davit and
+    lead inboard to control the sea boat swing during recovery. Work with
+    the forward bowsing line hand to control and position the sea boat over
+    its cradle.
 
-Pass gripes over the sea boat to secure it in the cradle.
+    Pass gripes over the sea boat to secure it in the cradle.
 
 4. Forward Bowsing Line Hand. Refer to Davit Fall Team.
 
-During launch make sure the forward bowsing line is clear to run.
+    During launch make sure the forward bowsing line is clear to run.
 
-During recovery, work with the Aft Bowsing Line hand to swing the sea
-boat around and guide it over the cradle by hauling forward.
+    During recovery, work with the Aft Bowsing Line hand to swing the sea
+    boat around and guide it over the cradle by hauling forward.
 
-    5. Painter Pendent Hand. (Wear climbing harness)
+5. Painter Pendent Hand. (Wear climbing harness)
 
-Painter Pendent is spliced to the Painter and used to control Painter
-end,
+    Painter Pendent is spliced to the Painter and used to control Painter
+    end, during the launch and recovery to control the sea boat’s swing.
 
-during the launch and recovery to control the sea boat’s swing.
+    On launch keep tension on painter pennant to assist swing-out of davit.
 
-On launch keep tension on painter pennant to assist swing-out of davit.
-
-Ease as boat is lowered and prevent bow dropping.
+    Ease as boat is lowered and prevent bow dropping.
 
     Have painter ready for return of the sea boat and once attached
     control position of the sea boat while it is alongside the ship.
 
-    6. Davit Fore Guy and Painter Hand.
+6. Davit Fore Guy and Painter Hand.
 
     Davit Fore Guy.
 
@@ -265,466 +264,434 @@ Ease as boat is lowered and prevent bow dropping.
     When boat is being recovered adjust painter, return to fore davit
     guy and ease to allow davit to swing inboard.
 
-Painter. (Also refer to notes following for layout diagram)
+    Painter. (Also refer to notes following for layout diagram)
 
-This line leads from forward of the fore mast shroud and has Painter
-Pennant spliced into it.
+    This line leads from forward of the fore mast shroud and has Painter
+    Pennant spliced into it.
 
-Painter has two fixed positions.
+    Painter has two fixed positions.
 
-1. Maximum length, long mark (Ladder mark) for swing out and in, and, if
-   required, to allow emergency boat to fall back to boarding ladder.
+    1. Maximum length, long mark (Ladder mark) for swing out and in, and, if
+       required, to allow emergency boat to fall back to boarding ladder.
 
-2. Shorten to short mark (Davit mark) for fixing the position of the
-   boat under the davit, when it is being lowered into the water and
-   recovered.
+    2. Shorten to short mark (Davit mark) for fixing the position of the
+       boat under the davit, when it is being lowered into the water and
+       recovered.
 
-7.& 8. Davit Fall Team.
+7. Davit Fall Team.
 
     Made up of two hands during lowering and recovery. Other spare hands
     can assist with recovery.
 
-Launch;
+    Launch;
 
-Secure the freeing port.
+        Secure the freeing port.
 
-    One hand gathers in main course sheet and secures to davit cleat
-    using strop.
+        One hand gathers in main course sheet and secures to davit cleat
+        using strop.
 
-    Alternatively -
+        Alternatively -
 
-    Depending on the ship’s course and the position of the main sail and
-    yard it may be necessary to use the block and line seized to the
-    port mizzen topmast guy to brail up the main sail port sheet and
-    yard brace clear of the davit.
+        Depending on the ship’s course and the position of the main sail and
+        yard it may be necessary to use the block and line seized to the
+        port mizzen topmast guy to brail up the main sail port sheet and
+        yard brace clear of the davit.
 
-Second hand takes fall from pin and leads it down the deck.
+        Second hand takes fall from pin and leads it down the deck.
 
-Two hands heave boat from cradle and take a turn around the pin.
+        Two hands heave boat from cradle and take a turn around the pin.
 
-Once outboard, the boat is lowered to top rail.
+        Once outboard, the boat is lowered to top rail.
 
-    When crew are on board, the boat is lowered to the water with plenty
-    of slack in the fall. This will prevent the boat from being
-    “plucked” unexpectedly from the water as the ship rolls and help
-    crew to cast off the fall from the boat sling.
+        When crew are on board, the boat is lowered to the water with plenty
+        of slack in the fall. This will prevent the boat from being
+        “plucked” unexpectedly from the water as the ship rolls and help
+        crew to cast off the fall from the boat sling.
 
-After boat is away haul in the fall and secure to topgallant rail.
+        After boat is away haul in the fall and secure to topgallant rail.
 
-When the boat is successfully launched assist rigging the boarding
+        When the boat is successfully launched assist rigging the boarding ladder.
 
-ladder.
+    Recovery:
 
-**Recovery:**
+        When the sea boat returns the painter pendent hand lowers the
+        painter ring to the sea boat. They connect using the snap hook.
 
-    When the sea boat returns the painter pendent hand lowers the
-    painter ring to the sea boat. They connect using the snap hook.
+        When boat is in position under the davit lower fall. The crew attach
+        it to the boat sling.
 
-    When boat is in position under the davit lower fall. The crew attach
-    it to the boat sling.
+        With fall off the pin, call crew to assist haul in fall to bring boat to
+        the topgallant rail.
 
-With fall off the pin, call crew to assist haul in fall to bring boat to
-the topgallant rail.
+        At the topgallant rail attach the bowsing lines.
 
-At the topgallant rail attach the bowsing lines.
+        After crew have disembarked, painter on the long or ladder mark,
+        haul the sea boat to the cradle height. Pass fall around the pin.
 
-    After crew have disembarked, painter on the long or ladder mark,
-    haul the sea boat to the cradle height. Pass fall around the pin.
+        Aft Bowsing line hand moves inboard and works with the Fore Bowsing
+        line hand to control the swing of the sea boat and guide it over the
+        cradle.
 
-    Aft Bowsing line hand moves inboard and works with the Fore Bowsing
-    line hand to control the swing of the sea boat and guide it over the
-    cradle.
+        With davit inboard, lower the boat to rest in the cradle. Guide by
+        using the sea boat’s painter and the forward bowsing line.
 
-    With davit inboard, lower the boat to rest in the cradle. Guide by
-    using the sea boat’s painter and the forward bowsing line.
+        Secure gripes.
 
-Secure gripes.
+        Lookout leaves the mizzen shrouds when all is secure.
 
-Lookout leaves the mizzen shrouds when all is secure.
+        Coil and stow fall.
 
-Coil and stow fall.
+        Recover and stow boarding ladder.
 
-Recover and stow boarding ladder.
+        Check that sea boat is ready for next launch.
 
-Check that sea boat is ready for next launch.
+Order And *action*
+------------------
 
-#. .. rubric:: 
-      :name: section
+Launch
+^^^^^^
 
-   .. rubric:: ORDER AND *ACTION*;
-      :name: order-and-action
+Order & Action required.
 
-**LAUNCH**
+“Stations for Launching the Sea boat“
+    Launch and boat crew assemble at their stations
 
-**Order** & *Action required.*
-
-“Stations for Launching the Sea boat “
-                                      
-
-*Launch and boat crew assemble at their stations*
-
-**“Away the Sea Boat”**
-
-    *Brail Mainsail sheet to davit cleat. It may be necessary to take in
+“Away the Sea Boat”
+    Brail Mainsail sheet to davit cleat. It may be necessary to take in
     the mainsail &/or brace the main yards prior to turning out the Sea
-    Boat.*
+    Boat.
 
-    *Painter to be on the long mark*
+    Painter to be on the long mark
 
-    *Connect the painter/painter pendent ring to sea boat bridle snap
-    shackle- Watchleader..*
+    Connect the painter/painter pendent ring to sea boat bridle snap
+    shackle- Watchleader..
 
-    *Man davit forward guy – 1 crew*
+    Man davit forward guy – 1 crew
 
-    *Man painter pendent – 1 crew*
+    Man painter pendent – 1 crew
 
-    *Man davit after guy - 1 crew*
+    Man davit after guy - 1 crew
 
-    *Man the aft bowsing line - 1 crew*
+    Man the aft bowsing line - 1 crew
 
-    *Man the fore bowsing line – one of the crew from the falls team.
-    Loose to run.*
+    Man the fore bowsing line – one of the crew from the falls team.
+    Loose to run.
 
-Man the falls – Palm Down turns for hauling – 2 crew
-                                                    
+    Man the falls – Palm Down turns for hauling – 2 crew
 
-    *Off gripes – Watchleader*
+    Off gripes – Watchleader
 
-    *Fore bowsing line cleared to run.*
+    Fore bowsing line cleared to run.
 
-*Coxswain dressed and engine cleared away*
+    Coxswain dressed and engine cleared away
 
-*Crewman dressed and radio checked*
+    Crewman dressed and radio checked
 
-*Check boat rope rigged just above plimsol line*
+    Check boat rope rigged just above plimsol line
 
-**“Hoist to the Davit”**
+“Hoist to the Davit”
+    Haul away on fall.
 
-*Haul away on fall.*
+    Haul taut painter pendent to control the swing of the sea boat
 
-Haul taut painter pendent to control the swing of the sea boat
-                                                              
+    Haul taut the sea boat aft bowsing linea
 
-    *Haul taut the sea boat aft bowsing line*
+    Let the fore bowsing line run
 
-    *Let the fore bowsing line run*
+    Haul taut after davit guy
 
-*Haul taut after davit guy*
+“Well”
+    Avast hauling on fall.
 
-#. .. rubric:: 
-      :name: section-1
+    One turn on the fall pin.
 
-   .. rubric:: “Well”
-      :name: well
+    Haul taut painter pendent
 
-*Avast hauling on fall.*
+    Haul taut the aft bowsing line
 
-*One turn on the fall pin.*
+“Turn out the Davit”
+    Haul away davit forward guy
 
-*Haul taut painter pendent*
+    Ease davit after guy let it run (under control) to the stopper
 
-*Haul taut the aft bowsing line*
+    Haul painter pendent to control sea boat’s bow and assist in the
+    turnout
 
-**“Turn out the Davit”**
+    Haul aft bowsing line to prevent swing and assist in turnout.
 
-    *Haul away davit forward guy*
+    Be prepared to work (ease and haul) the aft bowsing line as
+    required.
 
-    *Ease davit after guy let it run (under control) to the stopper*
+“Well”
+    Make fast davit forward guy
 
-    *Haul painter pendent to control sea boat’s bow and assist in the
-    turnout*
+    Haul painter - Make fast on pin at "Short" mark
 
-    *Haul aft bowsing line to prevent swing and assist in turnout.*
+    Turn up davit after guy
 
-    *Be prepared to work (ease and haul) the aft bowsing line as
-    required.*
+“Lower to the Rail”
+    Painter on the short mark
 
-3. .. rubric:: 
-      :name: section-2
+    Ease away fall on the pin
 
-   .. rubric:: “Well”
-      :name: well-1
+    Boat lowered to the topgallant rail
 
-..
+“Well”
+    Avast easing on fall
 
-    *Make fast davit forward guy*
+    Turns on the fall
 
-*Haul painter - Make fast on pin at "Short" mark*
+    Coxswain and Crew embark
 
-*Turn up davit after guy*
+    Coxswain tilts the engine down so that it is ready to start
 
-5. .. rubric:: 
-      :name: section-3
+    Release boat bowsing lines
 
-   .. rubric:: “Lower to the Rail”
-      :name: lower-to-the-rail
+    Coxswain and crew take hold of the manrope.
 
-..
+    **Check with officer of the watch that it is clear to continue, and
+    lower the boat.**
 
-    *Painter on the short mark*
+    **If clear continue.**
 
-    *Ease away fall on the pin*
+“Lower Away”
+    Sea Boat Coxswain may release the Safety chain snap hook.
 
-    *Boat lowered to the topgallant rail*
+    Sea boat crew hold onto the manrope
 
-**“Well”**
+    Ease away fall (on the pin)
 
-*Avast easing on fall*
+    Use painter pennant to control sea boat bow
 
-*Turns on the fall*
+    Boat lands in water
 
-*Coxswain and Crew embark*
+    Weight taken by painter/painter pendent
 
-*Coxswain tilts the engine down so that it is ready to start*
+    Cast off fall from pin - no weight
 
-*Release boat bowsing lines*
+    Overhaul fall to provide slack to unhook
 
-*Coxswain and crew take hold of the manrope.*
+    Coxswain release lifting hook (Snap shackle)
 
-**Check with officer of the watch that it is clear to continue, and
-lower the boat.**
+    Haul back fall
 
-**If clear continue.**
+    Start Engine - go ahead slow if ship has headway
 
-**“Lower Away”**
+    Boat now towed by ship on painter.
 
-*Sea Boat Coxswain may release the Safety chain snap hook.*
+“Slip”
+    Coxswain has command of the sea boat
 
-*Sea boat crew hold onto the manrope*
+    Crew releases snap shackle by slip line
 
-*Ease away fall (on the pin)*
+    Coxswain drives boat ahead and out from ship
 
-    *Use painter pennant to control sea boat bow*
+    Crew watches MOB Lookout on ship
 
-    *Boat lands in water*
+    Crew checks radio contact
 
-    *Weight taken by painter/painter pendent*
 
-    *Cast off fall from pin - no weight*
+    Coxswain drives boat under crew direction to MOB or head off on task.
 
-    *Overhaul fall to provide slack to unhook*
+“Clear Away for Boat Recovery”
+    Deploy pilot ladder
 
-    *Coxswain release lifting hook (Snap shackle)*
+    Clear away lines
 
-    *Haul back fall*
+    Prepare falls
 
-    *Start Engine - go ahead slow if ship has headway*
+    Lower painter and towing ring just clear of water for the sea boat
 
-    *Boat now towed by ship on painter.*
+    Have falls ready to be lowered to sea boat when called for by coxswain
 
-7. .. rubric:: 
-      :name: section-4
+    Check boat rope rigged just above plimsol line
 
-   .. rubric:: “Slip”
-      :name: slip
+Recovery
+^^^^^^^^
 
-*Coxswain has command of the sea boat*
+Order & Action required.
 
-    *Crew releases snap shackle by slip line*
+“Stations for Recovering the Sea boat”
+    Recovery crew assemble at their stations
 
-    *Coxswain drives boat ahead and out from ship*
+    Ensure mainsail sheet still brailed to davit cleat
 
-    *Crew watches MOB Lookout on ship*
+    Check painter & painter pendent are outboard of Mainsail sheet
 
-Crew checks radio contact
-                         
+    Lower fall to the water
 
-*Coxswain drives boat under crew direction to MOB or head off on task.*
 
-**“Clear Away for Boat Recovery”**
+    Turn up painter at the short mark
 
-*Deploy pilot ladder*
+    Ensure davit turned out to the stopper on the aft davit guy
 
-*Clear away lines*
+    Check the pilot ladder
 
-*Prepare falls*
+“Stand by to receive the Sea boat”
+    Man the fall - take in hand Fall Team and general crew
 
-*Lower painter and towing ring just clear of water for the sea boat*
+    Man painter pendent
 
-*Have falls ready to be lowered to sea boat when called for by coxswain*
+    Man both bowsing Lines - take in hand
 
-*Check boat rope rigged just above plimsol line*
+    Man davit forward guy - remains on pin
 
-**RECOVER**
+    Man after davit guy - remains secured
 
-**Order** & *Action required.*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    If required, man the painter. It should be on the short mark.
 
-**“Stations for Recovering the Sea boat”**
+“Sea boat "Come In"” (Arm Signal + Voice)
+    Coxswain drives to painter/painter pendent
 
-*Recovery crew assemble at their stations*
+    Crew connects Sea Boat painter by snap hook to the ship’s painter ring.
 
-*Ensure mainsail sheet still brailed to davit cleat*
 
-    *Check painter & painter pendent are outboard of Mainsail sheet*
+    Coxswain drops speed - painter takes tow
 
-Lower fall to the water
-                       
+“Ease Painter to the Ladder” (If requested)
+    Painter eased away on pin to 'Long' mark
 
-    *Turn up painter at the short mark*
+    Additional control provided by painter pendent
 
-    *Ensure davit turned out to the stopper on the aft davit guy*
 
-    *Check the pilot ladder*
+    Hold painter on pin to 'Long' mark with three turns
 
-**“Stand by to receive the Sea boat”**
+“Well”
+    Confirm boat is alongside ladder
 
-*Man the fall - take in hand Fall Team and general crew*
+    Unload heavy items by heaving line or davit hoist
 
-*Man painter pendent*
+    Boat Crew may disembark via the pilot ladder
 
-*Man both bowsing Lines - take in hand*
+“Standby to Hoist”
+    Painter hauled in to “Short” mark. Coxswain uses engine to assist.
 
-*Man davit forward guy - remains on pin*
+    Painter pennant assists and stands by to control sea boat when it
+    leaves the water.
 
-*Man after davit guy - remains secured*
+    Coxswain calls for lifting hook (falls) to be lowered
 
-*If required, man the painter.* *It should be on the short mark.*
+    Coxswain connects lifting hook. Use both snap shackle and snap
+    hook.
 
-**“Sea boat "Come In"” (Arm Signal + Voice)**
+    Coxswain stops & stows engine, crew holds lifting hook tail
 
-    *Coxswain drives to painter/painter pendent*
+    **Do not** haul out the slack on the fall until instructed by the
+    Coxswain.
 
-Crew connects Sea Boat painter by snap hook to the ship’s painter ring.
-                                                                       
+“Hoist to the Topgallant Rail”
+    Fall hauled/run in by Fall Crew assisted by general crew
 
-*Coxswain drops speed - painter takes tow*
 
-**“Ease Painter to the Ladder” (If requested)**
+“Well”
+    Avast hauling on fall (sea boat at ships rail)
 
-    *Painter eased away on pin to 'Long' mark*
+    Hold fall - in hand
 
-Additional control provided by painter pendent
-                                              
+    Coxswain connect boat bowsing lines
 
-    *Hold painter on pin to 'Long' mark with three turns*
+    Coxswain and crew disembark
 
-9. .. rubric:: 
-      :name: section-5
+    *“Hoist to the Davit”
 
-   .. rubric:: “Well”
-      :name: well-2
+    Painter set on the “Long” mark
 
-*Confirm boat is alongside ladder*
+    Falls walked in slow for Sea Boat to clear cradle
 
-*Unload heavy items by heaving line or davit hoist*
+    Use painter pendent and fore and aft bowsing lines to steady Sea Boat*
 
-*Boat Crew may disembark via the pilot ladder*
+“Well, Turn in the Davit”
+    Avast hauling on fall
 
-**“Standby to Hoist”**
+    Haul on davit after guy
 
-*Painter hauled in to “Short” mark. Coxswain uses engine to assist.*
+    Ease away davit fore guy
 
-*Painter pennant assists and stands by to control sea boat when it
-leaves the*
+    Ease away painter pendent
 
-*water.*
+    Haul in the fore bowsing line while easing the aft bowsing line.
 
-    *Coxswain calls for lifting hook (falls) to be lowered*
+    Swing boat in by hand - to boat cradle
 
-    *Coxswain connects lifting hook. Use both snap shackle and snap
-    hook.*
+“Lower to the Cradle”
+    Ease away handsomely on fall
 
-    *Coxswain stops & stows engine, crew holds lifting hook tail*
+    Guide boat to the cradle using the aft bowsing line and boat bridal
 
-***Do not** haul out the slack on the fall until instructed by the
-Coxswain.*
+    Land Sea boat into the cradle
 
-**“Hoist to the Topgallant Rail”**
+“Secure the Sea boat”
+    On gripes
 
-Fall hauled/run in by Fall Crew assisted by general crew
-                                                        
+    Haul taut and make fast davit after guy
 
-**“Well”**
+    Haul taut and make fast davit forward guy
 
-*Avast hauling on fall (sea boat at ships rail)*
+    Release the painter and hang it on davit cleat
 
-    *Hold fall - in hand*
+    Release the mainsail sheet
 
-*Coxswain connect boat bowsing lines*
+    Haul taut on the fall and make fast
 
-*Coxswain and crew disembark*
+    Tidy lines and return all gear
 
-**“Hoist to the Davit”**
+    Return painter to the long mark & set painter pendent.
 
-*Painter set on the “Long” mark*
+    Secure fore and aft bowsing lines
 
-*Falls walked in slow for Sea Boat to clear cradle*
+    **Advise officer of the watch that sea boat is secure.**
 
-*Use painter pendent and fore and aft bowsing lines to steady Sea Boat*
+    **MOB Lookout returns to the deck.**
 
-**“Well, Turn in the Davit”**
+Painter, Painter pendent and Boat rope
+---------------------------------------
 
-    *Avast hauling on fall*
-
-    *Haul on davit after guy*
-
-    *Ease away davit fore guy*
-
-    *Ease away painter pendent*
-
-    *Haul in the fore bowsing line while easing the aft bowsing line.*
-
-*Swing boat in by hand - to boat cradle*
-
-**“Lower to the Cradle”**
-
-*Ease away handsomely on fall*
-
-*Guide boat to the cradle using the aft bowsing line and boat bridal*
-
-*Land Sea boat into the cradle*
-
-**“Secure the Sea boat”**
-
-*On gripes*
-
-    *Haul taut and make fast davit after guy*
-
-    *Haul taut and make fast davit forward guy*
-
-    *Release the painter and hang it on davit cleat*
-
-    *Release the mainsail sheet*
-
-    *Haul taut on the fall and make fast*
-
-    *Tidy lines and return all gear*
-
-    *Return painter to the long mark & set painter pendent.*
-
-    *Secure fore and aft bowsing lines*
-
-**Advise officer of the watch that sea boat is secure.**
-
-**MOB Lookout returns to the deck.**
-
-**Painter, Painter pendent and Boat rope;** Controlling Sea Boat Pennant
-during launch, recovery & manoeuvring. Ref. Main notes.
+Controlling Sea Boat Pennant during launch, recovery & manoeuvring. Ref. Main notes.
 
     Sea Boat – Stowed and rigged ready to launch. Painter on “Long Mark”
     with aft end secured to davit pin.
 
-**Launch:**
+.. comment: TODO Missing figure
+
+Launch
+^^^^^^
 
 Sea Boat – Ready to be turned out. Painter is on “Long Mark” to give
 enough slack for connection to sea boat bridle.
 
+.. comment: TODO Missing figure
+
+
 Sea Boat – Turned out & lowered to the rail, ready to be lowered to the
 water. Painter is now hauled to “Short Mark”.
 
-    Sea Boat – In the water with Painter on the “Short Mark”.
+.. comment: TODO Missing figure
 
-    Sea Boat – Returns for recovery – Painter on the “Short Mark” & held
-    out by Painter Pendent Hand for pickup by boat crew.
+Sea Boat – In the water with Painter on the “Short Mark”.
 
-**Recovery:** pennant control is the reverse of launch. Once Sea Boat is
+.. comment: TODO Missing figure
+
+Sea Boat – Returns for recovery – Painter on the “Short Mark” & held
+out by Painter Pendent Hand for pickup by boat crew.
+
+.. comment: TODO Missing figure
+
+Recovery
+^^^^^^^^
+
+Pennant control is the reverse of launch. Once Sea Boat is
 at the rail & crew disembarked, Painter is returned to “Long Mark”.
 
-**Boarding Ladder:** To allow the sea boat to fall back to the Boarding
+Boarding Ladder
+^^^^^^^^^^^^^^^
+
+To allow the sea boat to fall back to the Boarding
 Ladder, ease the Painter to the “Long Mark”.
 
-**SEA BOAT LAUNCH IN A SEAWAY – SOME FACTORS TO BE CONSIDERED.**
+.. comment: TODO Missing figure
+
+Sea Boat Launch In A Seaway – Some Factors To Be Considered
+===========================================================
 
 Crew need to have a perspective on some of factors to be considered by
 the Master before committing to launch the sea boat, thus gain an
@@ -737,14 +704,10 @@ open sea.
 
 1. Course being steered;
 
-..
+  - Is the ship running free, on a broad reach, close reach, beam
+    reach, close hauled?
 
-    ● Is the ship running free, on a broad reach, close reach, beam
-    reach, close
-
-    hauled?
-
-    ● Starboard tack or port tack?
+  - Starboard tack or port tack?
 
 2. Sea state – swell direction and size.
 
@@ -754,28 +717,24 @@ open sea.
 
 5. Sails set and action;
 
-..
+  - Rapid sail reduction
 
-    ● Rapid sail reduction
+  - Reduce sails
 
-    ● Reduce sails
+  - Box yards to heave too.
 
-    ● Box yards to heave too.
+  - Reduce sails and heave too
 
-    ● Reduce sails and heave too
-
-    ● Rapid sail reduction and go to power
+  - Rapid sail reduction and go to power
 
 6. Position of rigging that may affect smooth launch. i.e. braces and
    sheets of the mainsail.
 
 7. Recover under power only
 
-..
+8. Time of the day/night
 
-    8. Time of the day/night
-
-    9. Experience of the boat crew and launch crew.
+9. Experience of the boat crew and launch crew.
 
 The Master is faced with many decisions prior to committing the sea boat
 and at worst in a MOB situation from having one crew in the water to
@@ -787,48 +746,44 @@ importantly solutions.
 
 1. Course being steered. –
 
-   a. To launch on the weather side exposes the sea boat to the direct
-      force of the weather and sea. It will be driven against the ship’s
-      hull.
+  a. To launch on the weather side exposes the sea boat to the direct
+     force of the weather and sea. It will be driven against the ship’s
+     hull.
 
-   b. To launch on the lee side offers protection of the ship to the sea
-      boat during launch and later recovery.
+  b. To launch on the lee side offers protection of the ship to the sea
+     boat during launch and later recovery.
 
-   c. If the ship is on a Starboard tack the sea boat will be in a lee
+  c. If the ship is on a Starboard tack the sea boat will be in a lee
 
 2. Sea state. –
 
-   d. Size and frequency of the swell.
+  a. Size and frequency of the swell.
 
-   e. Wave height.
+  b. Wave height.
 
-..
-
-    Special care will be required by the launch and recovery team to
-    compensate for these factors. Sea Boat Coxswain will have to be
-    particularly careful when slipping from and reattaching the fall.
+  Special care will be required by the launch and recovery team to
+  compensate for these factors. Sea Boat Coxswain will have to be
+  particularly careful when slipping from and reattaching the fall.
 
 3. Strength of the wind and trend.
 
-   f. Has it been building in strength
+  a. Has it been building in strength
 
-   g. Is it dropping off?
+  b. Is it dropping off?
 
 4. To launch on the weather or lee side.
 
-   h. If the ship is on a starboard tack it may be safe to launch as the
-      sea boat is on the lee side as the ships hull provides some
-      protection.
+  a. If the ship is on a starboard tack it may be safe to launch as the
+     sea boat is on the lee side as the ships hull provides some
+     protection.
 
-   i. If on a port tack the launch is exposed to the weather so it may
-      be wise to defer the launch until the ship has come about.
-      Critical recovery time will be lost.
+  b. If on a port tack the launch is exposed to the weather so it may
+     be wise to defer the launch until the ship has come about.
+     Critical recovery time will be lost.
 
 5. Sail set and action.
 
-   j. Stop the ship by boxing the yards?
-
-..
+  a. Stop the ship by boxing the yards?
 
     Starboard tack – box the main yards. This will require port mainsail
     braces and sheets to be brailed up clear of the davit.
@@ -838,34 +793,32 @@ importantly solutions.
 
     Raise tack and sheets on the mainsail will reduce the problem.
 
-k. Reduce sails to trim for boxing or heaving too.
+  b. Reduce sails to trim for boxing or heaving too.
 
-l. Rapid sail reduction to take in all sails and proceed under power.
+  c. Rapid sail reduction to take in all sails and proceed under power.
 
-m. The taking in of all sails in a seaway will remove their stabilising
-   effect and the ship will roll more thus further complicating the sea
-   boat launch.
+  d. The taking in of all sails in a seaway will remove their stabilising
+     effect and the ship will roll more thus further complicating the sea
+     boat launch.
 
 6. Position of rigging that may affect smooth launch. i.e. braces and
    sheets of the mainsail.
 
-..
-
-    Special block and lanyard has been mounted on the port mizzen stay
-    to brail up main sail’s port brace.
+  Special block and lanyard has been mounted on the port mizzen stay
+  to brail up main sail’s port brace.
 
 7. Recovery under power.
 
-   n. Once all sails are secure proceed with Williamson turn or enter
-      search patters.
+  a. Once all sails are secure proceed with Williamson turn or enter
+     search patters.
 
-   o. Manoeuvre to safer position to launch the sea boat.
+  b. Manoeuvre to safer position to launch the sea boat.
 
 8. Time of the day/night and visibility. Is there sufficient daylight to
    complete the operation?
 
 9. Experience of the boat crew and the suitability of the sea boat to
-       handle the prevailing conditions.
+   handle the prevailing conditions.
 
 For additional factors to be taken into account by the Sea Boat Coxswain
 and crew when leaving and returning to the ship at sea when the ship is

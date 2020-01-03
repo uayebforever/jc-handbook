@@ -65,81 +65,85 @@ DANGERS. DO NOT STAND IN BIGHTS, LOOPS ETC FOR THE REASONS SHOWN BELOW –
 line ware and tangles and could result in you sustaining a twisted ankle
 or being entangled in the lines.
 
-SAFE LINE HANDLING
+Safe Line Handling
+==================
 
 Injuries can easily happen while working lines. These include;
 
-. Rope burn
+- Rope burn
 
-. Being flicked in the face with rope ends
+- Being flicked in the face with rope ends
 
-. Bruises
+- Bruises
 
-. Broken bones
+- Broken bones
 
-. Crushed fingers and limbs.
+- Crushed fingers and limbs.
 
-. Trapped long hair and beards.
+- Trapped long hair and beards.
 
 Key rules to avoid injury-
 
-Be aware of others around you when handling lines
+- Be aware of others around you when handling lines
 
-Good line preparation
+- Good line preparation
 
-Keeping the work area ordered
+- Keeping the work area ordered
 
-Staying clear of danger zones where lines lead -
+- Staying clear of danger zones where lines lead -
 
-Into sheaves.
+  - Into sheaves.
 
-Through fairleads
+  - Through fairleads
 
-Onto pins and bitts
+  - Onto pins and bitts
 
-Where bights of lines lie along the deck.
+  - Where bights of lines lie along the deck.
 
-Lines under or about to come under extreme load.
+  - Lines under or about to come under extreme load.
 
-Check line tension before removing turns from pins or bitts to assess
-potential load.
+- Check line tension before removing turns from pins or bitts to assess
+  potential load.
 
-If not sure what is required, ask for further clarification of order.
+- If not sure what is required, ask for further clarification of order.
 
-Few lines can be worked by one person, seek assistance from other crew.
+- Few lines can be worked by one person, seek assistance from other crew.
 
-Grip a line with fingers, do not wrap thumb around a line.
+- Grip a line with fingers, do not wrap thumb around a line.
 
-    When a hand is near a pin, grip the line so that the little finger
-    is closest to the pin.
+- When a hand is near a pin, grip the line so that the little finger
+  is closest to the pin.
 
-    Always keep the hands a safe distance from the pin when hauling or
-    easing a line.
+- Always keep the hands a safe distance from the pin when hauling or
+  easing a line.
 
-    |image2|
+  |image2|
 
-    **DO NOT** allow a line to slip or run freely through your hands. To
+- **DO NOT** allow a line to slip or run freely through your hands. To
     do so may result in loss of control and severe burns.
 
-    When assisting to haul on a line, **do not let go** until the person
-    controlling the line at the pin calls “Turns On”.The person
-    controlling the line at the pin may use the following orders:
+- When assisting to haul on a line, **do not let go** until the person
+  controlling the line at the pin calls “Turns On”.The person
+  controlling the line at the pin may use the following orders:
 
-    -“Ease to the Pin” – Crew assisting will move the line slowly
+  - “Ease to the Pin” – Crew assisting will move the line slowly
     towards the pin.
 
--“Come up” – Crew assisting will let go the line.
+  - “Come up” – Crew assisting will let go the line.
 
--“Take the load” – Crew nearby will take hold of the line ahead of the
-pin to assist hold the load on the line until the line is belayed.
+  - “Take the load” – Crew nearby will take hold of the line ahead of the
+    pin to assist hold the load on the line until the line is belayed.
 
-    **DO NOT stand on lines that are lying on the deck.**
+- **DO NOT stand on lines that are lying on the deck.**
 
 **CAUTION NOTE,** The wearing of gloves is optional when handling lines.
 Beware of overconfidence as the gloves may become entangled and draw
 hands into pins etc.
 
-**PALMING DOWN.**
+
+
+Palming Down
+============
 
 |image3|
 
@@ -177,33 +181,30 @@ palming can assist the friction on the pin as you turn up.
 Experience has shown that the left palm is preferred if you are
 right-handed and so on.
 
-**BELAYING LINES TO A PIN**
+
+Belaying Lines To A Pin
+=======================
 
 After an order to stop hauling – “Well” (well enough) or “Avast Hauling”
-(stop
-
-hauling) the next order given to secure the line to a belaying pin,
+(stop hauling) the next order given to secure the line to a belaying pin,
 spider band pin or post etc. will be: “belay” or "make fast".
 
-**To belay to a pin in the main rail or fife rails**
+To belay to a pin in the main rail or fife rails
+------------------------------------------------
 
 Lines from **ABOVE** – e.g. Clew lines, bunt lines, etc.
 
-    \* If the line leads vertically down to its pin, then take it to the
-    left side. Diagram (a)
+- If the line leads vertically down to its pin, then take it to the
+  left side. Diagram (a)
 
-    \* If the line leads down at an angle to the pin, take it to that
-    side from which it approaches. Diagram (b) and (c)
+- If the line leads down at an angle to the pin, take it to that
+  side from which it approaches. Diagram (b) and (c)
 
 |image4|
 
-Diagram (a) Diagram (b) Diagram (c)
+.. comment: TODO Fix this caption and figure to match Word original.
 
-Vertical lead, Lead from the left Lead from the right
-
-come round from come round from come round from
-
-left side. left side. right side.
+Diagram (a) Diagram (b) Diagram (c) Vertical lead, Lead from the left Lead from the right come round from come round from come round from left side. left side. right side.
 
 Now take the line from left to right around the upper part of the pin.
 
@@ -215,19 +216,17 @@ from left to right.
 
 Lines from **BELOW** – e.g. Upper topsail halyards, etc.
 
-\* If the line lead is vertically up to its pin, then take it to the
+- If the line lead is vertically up to its pin, then take it to the
 left side. Diagram (d)
 
-\* If the line leads up at an angle to its pin take it to that side from
+- If the line leads up at an angle to its pin take it to that side from
 which it approaches. Diagram (e) and (f)
 
 |image5|
 
-Diagram (d) Diagram (e) Diagram (f)
+.. comment: TODO Fix this caption and figure to match Word original.
 
-Vertical lead, come Lead from the left, Lead from the right,
-
-Round from left side come round from left side. Come round from the
+Diagram (d) Diagram (e) Diagram (f) Vertical lead, come Lead from the left, Lead from the right, Round from left side come round from left side. Come round from the
 right.
 
 Now take the line from left to right around the bottom of the pin.
@@ -235,13 +234,15 @@ Now take the line from left to right around the bottom of the pin.
 Continue making figure 8 turns to a total three turns and finish with
 belaying hitch as shown below.
 
-**To belay to a pin on the spider band**
+
+To belay to a pin on the spider band
+------------------------------------
 
 All lines; from **ABOVE** OR **BELOW**
 
-    \* Lead lines around the boss from the left side.
+    - Lead lines around the boss from the left side.
 
-    \* Make a full turn on the boss, then commence figure 8 turns left
+    - Make a full turn on the boss, then commence figure 8 turns left
     to right around the pin.
 
 Complete three full figure 8 turns.
@@ -258,7 +259,8 @@ Take appropriate care with lines under heavy load.
 As each turn is made around the upper part of a pin, give it a tug with
 your body weight to remove all slack.
 
-**Method of securing a belayed line to a pin (Belaying Hitch)**
+Method of securing a belayed line to a pin (Belaying Hitch)
+-----------------------------------------------------------
 
 This prevents the line from being accidentally released if a coil is
 knocked or washed off the pin.
@@ -266,29 +268,32 @@ knocked or washed off the pin.
 |image7|
 
 1. Begin the belay in the usual way with regard to the lead of the line
-to the pin or cleat.
+   to the pin or cleat.
 
 2. Lay on at least two full figure-of-eight turns clockwise around the
-top of the pin. On the third or subsequent last turn, half hitch to
-secure the belay.
+   top of the pin. On the third or subsequent last turn, half hitch to
+   secure the belay.
 
 3. There are just two ways of forming the half hitch. The right way –
-where two parts of the line will lay neatly side-by-side with one part
-across them, refer to above photograph, and the wrong way, which will
-appear as a messy jumble.
+   where two parts of the line will lay neatly side-by-side with one part
+   across them, refer to above photograph, and the wrong way, which will
+   appear as a messy jumble.
 
 4. This belay is seamanlike, will not jam, is neat and, most
-importantly, SECURE. It will not wash off the pin (big seas) or
-accidentally get knocked off and let go.
+   importantly, SECURE. It will not wash off the pin (big seas) or
+   accidentally get knocked off and let go.
 
 5. It should be used on all lines under tension; that is, all halyards,
-sheets, braces, etc. If in doubt, use it.
+   sheets, braces, etc. If in doubt, use it.
 
 |image8|
 
+.. comment: TODO Fix this caption and figure to match Word original.
+
 **A – Left lead. B – Right Lead C – Completing a belaying hitch**
 
-**COILING LINES**
+Coiling Lines
+=============
 
 Due to the size and length of the ship’s lines, making up the coils is
 best performed on the deck.
@@ -330,7 +335,8 @@ best performed on the deck.
 
 Also page 22 for the 10 commandments for the perfect coil.
 
-**BELAYING PIN DIAGRAMS.**
+Belaying Pin Diagrams
+=====================
 
 |image11|
 
@@ -338,7 +344,8 @@ Also page 22 for the 10 commandments for the perfect coil.
 
 |image13|
 
-**STOPPERS AND STOPPERING**
+Stoppers And Stoppering
+=======================
 
 To belay a rope which is under strain, the strain must be taken
 temporarily with a stopper.
@@ -373,13 +380,13 @@ There are many types of stopper and stoppering arrangements.
 
 In the James Craig the following stopping lines are fitted -
 
-\* There are fixed stopper lines attached to the Upper topsail halyard
+- There are fixed stopper lines attached to the Upper topsail halyard
 blocks.
 
-\* A stopper line is part of the windlass kit for hauling out the
+- A stopper line is part of the windlass kit for hauling out the
 stockless anchor.
 
-\* Portable stopper lines are stowed on the forward shroud of each mast
+- Portable stopper lines are stowed on the forward shroud of each mast
 (port and starboard).
 
 The portable stopper lines are 3 meter lengths of 12mm roblin line with
@@ -413,26 +420,28 @@ the ship this must not be used.
 
 Dangers of holding the tail by hand include;
 
-= the load exceeding the holders ability to contain
+- the load exceeding the holders ability to contain
 
-= loss of grip should the ship roll and holder loose balance
+- loss of grip should the ship roll and holder loose balance
 
-= flogging sails leading to hand/wrist injury
+- flogging sails leading to hand/wrist injury
 
-= burn injury to the holder and the crew on the running end should the
-stopper let go.
+- burn injury to the holder and the crew on the running end should the
+  stopper let go.
 
 Benefits of this hitch include;
 
-+ the rolling hitch can be formed without load then slid up the line to
-take the load.
+- the rolling hitch can be formed without load then slid up the line to
+  take the load.
 
-+ after hauling the hitch can be again slid up the line being hauled
-ready for hauling again.
+- after hauling the hitch can be again slid up the line being hauled
+  ready for hauling again.
 
-+ easy to tie and release after load.
+- easy to tie and release after load.
 
-**MARRYING LINES.**
+
+Marrying Lines
+==============
 
 This involves twisting together two or more lines in a fall or two
 sheets, so that the friction created between the bundled lines stops the
@@ -449,7 +458,9 @@ together* **left**\ *, twisted to create friction between the parts thus
 assisting hold the load* **right** *until the sheet is belayed to the
 pin on the spider band.*
 
-**HANDY BILLY.**
+
+Handy Billy
+===========
 
 When using a handy billy to assist hauling on a line such as a head sail
 or staysail sheet the rolling hitch shown above should be used to attach
@@ -462,19 +473,17 @@ Examples;
 -  Securing the handy billy to lines when additional hauling power is
    required.
 
-..
-
-    - The tail rope on a handybilly is secured using the rolling hitch.
+- The tail rope on a handybilly is secured using the rolling hitch.
 
 Also refer to the Purchases and Tackles Module 16.4.
 
-|image19|
+.. figure:: ./media/image20.*
 
-*Handy billy rigged to assist set the main sail tack - Note it is rigged
-to disadvantage.*
+   Handy billy rigged to assist set the main sail tack - Note it is rigged 
+   to disadvantage.
 
-*When rigged, this set up enables crew to haul down the main sail
-weather clew when setting and trimming the sail.*
+   When rigged, this set up enables crew to haul down the main sail weather 
+   clew when setting and trimming the sail.
 
 |image20|
 
@@ -490,7 +499,8 @@ accidental entanglement of the harness and or its lanyards.**
 warping drum us extreme care and backup. Synthetic line tends to heat up
 and melt under loanand friction thus causing it to lose its grip.**
 
-**BELAYING TO STAG HORN BITTS**
+Belaying To Stag Horn Bitts
+===========================
 
 A versatile bitt that can be used to work and secure a line from any
 direction.
@@ -535,7 +545,9 @@ etc) to a bollard, post, bit or capstan so that it can be left
 unattended. It can be used in any situation where it can be easily and
 quickly cast off without danger of being foul of the Post etc.
 
-|image28|\ For example the Fore Course (Foresail) Tack to the Capstan.
+|image28|
+
+For example the Fore Course (Foresail) Tack to the Capstan.
 
 Tack leads to the capstan and three turns are passed clockwise.
 
@@ -557,7 +569,9 @@ brought back around the capstan in the opposite direction.
 Make sure the segment of the line being passed around the capstan lies
 close on top of the turns already around the capstan
 
-|image31|\ The final turn around the capstan is tightened down and
+|image31|
+
+The final turn around the capstan is tightened down and
 draped over as shown.
 
 If the line starts to slip, the series of bights will tighten down and
@@ -575,7 +589,8 @@ The tugboat hitch can be easily cast off under control.
 
 |image33|
 
-**WORKING WITH THE CAPSTAN**
+Working With The Capstan
+========================
 
 Also refer to Module 16.2 for operation details.
 
@@ -592,7 +607,8 @@ passing figure of “8” turns around the bar passing through one of the
 cat heads.** This make the line easy to control and keeps hands clear of
 turns on the capstan.
 
-**WORKING WITH THE WARPING DRUM**
+Working With The Warping Drum
+=============================
 
 Also refer to Module 16.1 for operation details.
 
@@ -606,7 +622,8 @@ To reduce the risk of the line accidentally running off the end of the
 warping drum a flange has been welded to the outside end of the Port
 warping drum only.
 
-**BASIC KNOTS, BENDS & HITCHES**
+Basic Knots, Bends & Hitches
+============================
 
 “Knots” fall into three main categories – knots, bends and hitches, and
 also in a sense whipping, seizing and lashing.
@@ -637,153 +654,220 @@ The following are knots, bends, hitches, whippings etc used in the ship.
 For additional rope work, refer to the Sydney Heritage Fleet Rope and
 Rigging Handbook.
 
-**BASIC KNOTS, BENDS & HITCHES**
+
+Basic Knots, Bends & Hitches
+============================
+
+Terms
+-----
 
 |image36|
 
-**Terms;**
 
-***Overhand knot* –** To make a stop on a *Figure of eight* – as for an
+Overhand knot
+-------------
 
-rope, prevent end fraying, prevent line Overhand knot, but easier
+To make a stop on a rope, prevent end fraying, prevent line slipping through a block.
 
-slipping through a block. to untie.
+|image37| 
 
-|image37| |image38|
+Figure of eight
+---------------
 
-***Reef knot* –** Joining two ends – CAUTION can easily undo. Not
-suitable for
+as for an Overhand knot, but easier to untie.
 
-Lines of different diameter.
+|image38|
+
+Reef knot
+---------
+
+Joining two ends – CAUTION can easily undo. Not suitable for lines of different diameter.
 
 |image39|
 
-***Fisherman’s knot* –** Joining two ends.
+Fisherman’s knot
+----------------
+
+Joining two ends.
 
 |image40|
 
 |image41|
 
-***Round turn*** ***Clove hitch* –** Hitch the end of a line to a rail
-or post etc. NOT SAFE
+Round turn
+----------
 
-unless running end is secured with an additional half hitches.
+|image42|
 
-|image42| |image43|
 
-***olling hitch* –** To secure a stopper, or two ropes pulling in
-opposite directions.
+Clove hitch
+-----------
 
-*imber hitch and half hitch* – **Securing a line to an object. Safe
-while under constant load.**\ |image44|
+Hitch the end of a line to a rail
+or post etc. NOT SAFE unless running end is secured with an additional half hitches.
 
-***Timber hitch***\ |image45|
+|image43|
 
-***Timber Hitch***
+Rolling hitch
+-------------
+
+To secure a stopper, or two ropes pulling in opposite directions.
+
+|image44|
+
+
+Timber hitch and half hitch*
+----------------------------
+
+Securing a line to an object. Safe
+while under constant load.
+
+|image45|
+
+
+Timber Hitch
+------------
 
 |image46|
 
-*Sheet bend* – To join the ends of two lines of equal or different
+Sheet bend
+----------
+
+To join the ends of two lines of equal or different
 diameters. Bend is secure while under constant load. If used where load
 fluctuates, seize the running ends to respective standing parts.
 
 |image47|
 
-***Double sheet bend* –** More secure than single sheet bend, especially
-if line diameters very considerably.
+Double sheet bend
+-----------------
+
+More secure than single sheet bend, especially if line diameters very considerably.
 
 |image48|
 
-*Double sheet bend on a hard eye* – With fluctuating loads, seize
-running end.
+
+Double sheet bend on a hard eye
+-------------------------------
+
+With fluctuating loads, seize running end.
 
 |image49|
 
-***Bollard hitch* / Tugman’s hitch /Lighterman’s hitch –** Excellent to
-secure a line.
+Bollard hitch / Tugman’s hitch / Lighterman’s hitch
+---------------------------------------------------
+
+Excellent to secure a line.
 
 |image50|
 
-***Awning hitch***
+Awning hitch
+------------
 
 |image51|
 
-***Bowline* –** Use to make a temporary eye in the end of a rope.
+Bowline*
+--------
 
-|image52|\ |image53|
+Use to make a temporary eye in the end of a rope.
 
-***Secure a coil with a gasket hitch*** ***Line stowing hitch***
+|image52| |image53|
 
-|image54| |image55| |image56|
+Secure a coil with a gasket hitch
+---------------------------------
 
-***A round turn and two half hitches* -** Used to secure the running end
-of a line. The more turns made before the hitches are made the more
-control that is possible.
+|image54|
+
+Line stowing hitch
+------------------
+
+|image55| |image56|
+
+A round turn and two half hitches
+---------------------------------
+
+Used to secure the running end of a line. The more turns made before the hitches are made the more control that is possible.
 
 |image57|
 
-***Buntline Hitch –*** To secure the end of a line to an eye, e.g.
+Buntline Hitch
+--------------
+
+To secure the end of a line to an eye, e.g.
 securing the end of a buntline to the foot of a sail. Very secure.
 
 |image58|
 
-***A round turn and two half hitches using a bight -***
+A round turn and two half hitches using a bight
+-----------------------------------------------
 
 Use a bight to complete the round turns and two half hitches.
 
-+-----------+
-| |image59| |
-+-----------+
+image59|
 
-**Shown here are three way to secure a sail to a spar.**
+Shown here are three way to secure a sail to a spar
+===================================================
 
-***Marling hitching***
+Marling hitching
+----------------
 
 Used similar to half hitching however more secure. A series of overhand
 knots.
 
 |image60|
 
-***Half hitching***
+Half hitching
+-------------
 
 Method of lashing a number of objects together or a sail to a spar,
 consisting of a series of half hitches.
 
 |image61|
 
-***Swedish furl***
+Swedish furl
+------------
 
 A chain of loops. Easy to undo, simply release the end and pull. Uses
-more line than
-
-the other methods above.
+more line than the other methods above.
 
 |image62|
 
-***Whipping is applied to the end of a line to prevent it from coming
-apart.***
+Whipping is applied to the end of a line to prevent it from coming apart
+========================================================================
 
-Common whipping – Good temporary whipping
+Common whipping
+---------------
+
+Good temporary whipping
 
 |image63|
 
-***Needle and palm whipping*** – Very secure whipping
+Needle and palm whipping***
+---------------------------
+
+Very secure whipping
 
 |image64|
 
-*Sail makers whipping*
+Sail makers whipping
+--------------------
 
 |image65|
 
-***West Country Whipping* –** This “whipping” is also used when binding
+
+West Country Whipping
+---------------------
+
+This “whipping” is also used when binding
 together the strands of a roband, when securing the head of a square
 sail to its jackstay.
 
 |image66|
 
-***Short splice and long splice refer to Annexure “A”.***
+Short splice and long splice refer to Annexure “A”
 
 Fake down a line ready to run
+=============================
 
 +-----------------------------------+-----------------------------------+
 | Figure of eight faking.           | Clover leaf faking.               |
@@ -794,17 +878,19 @@ Fake down a line ready to run
 | |image69|                         | |image70|                         |
 +-----------------------------------+-----------------------------------+
 
-***Snubbing turns -*** Used for holding and easing a heavy loads. Two or
+Snubbing turns
+--------------
+
+Used for holding and easing a heavy loads. Two or
 more turns are taken around a post or bit to control the line. USE WITH
 CAUTION IF HEAVY LOADS ARE INVOLVED.
 
 |image71|
 
-***Pearce purchase hitch.***
+Pearce purchase hitch
+---------------------
 
-*A method of applying tension to a line such as awning*
-
-*side wires.*
+A method of applying tension to a line such as awningside wires.
 
 |image72|
 
@@ -812,93 +898,94 @@ CAUTION IF HEAVY LOADS ARE INVOLVED.
 
 |image74|
 
-**COILING CLUES - THE 10 COMMANDMENTS FOR THE PERFECT COIL.**
+Coiling Clues - The 10 commandments for the perfect coil
+========================================================
 
 1. The line’s lead.
 
-**Thou shalt not lead the line across the face of a pin.**
+  **Thou shalt not lead the line across the face of a pin.**
 
-*(To do so makes it difficult to lay on turns and secure the coil to the
-pin)*
+  *(To do so makes it difficult to lay on turns and secure the coil to the
+  pin)*
 
 2. Turns on a pin.
 
-**Thou shalt always pass the line clockwise around the TOP of a pin.**
+  **Thou shalt always pass the line clockwise around the TOP of a pin.**
 
-*(Lines have a right hand lay therefore favour being laid in a clockwise
-direction)*
+  *(Lines have a right hand lay therefore favour being laid in a clockwise
+  direction)*
 
 3. Belay to a pin.
 
-**Thou shalt lay, at least, two FULL turns around a pin and then apply a
-belay hitch. Heave taut each turn BEFORE placing on the next turn.**
+  **Thou shalt lay, at least, two FULL turns around a pin and then apply a
+  belay hitch. Heave taut each turn BEFORE placing on the next turn.**
 
-*(This will ensure the line is secure and will reduce the chances of
-“creep” under load.)*
+  *(This will ensure the line is secure and will reduce the chances of
+  “creep” under load.)*
 
 4. Start Coiling.
 
-**Thou shalt always start coiling a line from the STANDING (fixed)
-end.**
+  **Thou shalt always start coiling a line from the STANDING (fixed)
+  end.**
 
-*(This enables any twists in the line to be progressivelyworked out
-towards the free end as the line is coiled.)*
+  *(This enables any twists in the line to be progressivelyworked out
+  towards the free end as the line is coiled.)*
 
 5. Coil construction.
 
-**Thou shalt ALWAYS coil in a CLOCKWISE direction with the coil
-approximately four deck boards in diameter (not oval of in determent
-length).**
+  **Thou shalt ALWAYS coil in a CLOCKWISE direction with the coil
+  approximately four deck boards in diameter (not oval of in determent
+  length).**
 
-*( Lines are made with a right hand lay, therefore have a natural
-tendency to go that way, why force them to do the opposite? Speed should
-not take priority over neatness. A well made coil will always run
-without tangling. If the line tries to do a figure 8, you're probably
-coiling anti-clockwise".)*
+  *( Lines are made with a right hand lay, therefore have a natural
+  tendency to go that way, why force them to do the opposite? Speed should
+  not take priority over neatness. A well made coil will always run
+  without tangling. If the line tries to do a figure 8, you're probably
+  coiling anti-clockwise".)*
 
 6. Picking up the coil.
 
-**Pick up the coil from the deck at a point on the coil so that the tail
-will not drop out.**
+  **Pick up the coil from the deck at a point on the coil so that the tail
+  will not drop out.**
 
-*( If you pick up the coil at the wrong spot the end will drop out. If
-it does redo the coil, DO NOT just tuck it in.)*
+  *( If you pick up the coil at the wrong spot the end will drop out. If
+  it does redo the coil, DO NOT just tuck it in.)*
 
 7. Coil addresses the pin.
 
-**The coil should face the pin i.e. the line from the pin leads directly
-to the face of the coil.**
+  **The coil should face the pin i.e. the line from the pin leads directly
+  to the face of the coil.**
 
-*( By so doing the coil, when removed from the pin and placed on deck-
-NOT DROPPED- will run freely from the face.)*
+  *( By so doing the coil, when removed from the pin and placed on deck-
+  NOT DROPPED- will run freely from the face.)*
 
 8. Coil securing loop.
 
-**The loop should pass through the coil, over the pin and down the back
-of the pin to the rail. NOT sit on top of the pin.**
+  **The loop should pass through the coil, over the pin and down the back
+  of the pin to the rail. NOT sit on top of the pin.**
 
-*( Thus the coil will be secure.)*
+  *( Thus the coil will be secure.)*
 
 9. Finished and secured coil.
 
-**You should be able to see the line’s end whippings on the final turn
-outside the coil. The coil should be at least 100mm clear of the deck.**
+  **You should be able to see the line’s end whippings on the final turn
+  outside the coil. The coil should be at least 100mm clear of the deck.**
 
-*(Visible whippings indicate a good coil and deck clearance will ensure
-the will be no chafing of the line on the deck.)*
+  *(Visible whippings indicate a good coil and deck clearance will ensure
+  the will be no chafing of the line on the deck.)*
 
 10. Taking down coils.
 
-**When taking a coil off a pin thou shalt NOT DROP the coil. You will
-place it on the deck with the lead from the coil on top, for easing, or
-lead the line along the deck ready for hauling.**
+  **When taking a coil off a pin thou shalt NOT DROP the coil. You will
+  place it on the deck with the lead from the coil on top, for easing, or
+  lead the line along the deck ready for hauling.**
 
-*(Dropping coils or placing them upside down on the deck will lead to
-tangles and delays in what may be an urgent response to an order and may
-even put the ship and crew mates at risk.)*
+  *(Dropping coils or placing them upside down on the deck will lead to
+  tangles and delays in what may be an urgent response to an order and may
+  even put the ship and crew mates at risk.)*
 
-**If you HAVE NOT achieved ALL 10 commandments take the coil down and re
-do.**
+  **If you HAVE NOT achieved ALL 10 commandments take the coil down and re
+  do.**
 
 **Smart Coils = Smart Ship**
 
@@ -962,9 +1049,6 @@ wrath of the Watch Leader or Coil Police.**
 .. |image18| image:: ./media/image19.jpeg
    :width: 2.05208in
    :height: 2.33542in
-.. |image19| image:: ./media/image20.wmf
-   :width: 3.03264in
-   :height: 1.62222in
 .. |image20| image:: ./media/image21.jpeg
    :width: 3.39028in
    :height: 0.97917in

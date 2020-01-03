@@ -34,7 +34,8 @@ Ship’s facts and figures
 Crew will gain an appreciation of the Sydney Heritage Fleet’s operation
 and a foundation for becoming a crew member in James Craig.
 
-**SYDNEY HERITAGE FLEET**
+Sydney Heritage Fleet
+=====================
 
 The Lady Hopetoun and Port Jackson Marine Steam Museum, the forerunner
 of the Sydney Heritage Fleet, was founded in 1965 by a group of
@@ -88,7 +89,9 @@ at Darling Harbour in 1991. Whilst the two organisations differ, they do
 play complementary roles, the Sydney Heritage Fleet placing an emphasis
 on preservation, restoration and operation of heritage vessels.
 
-**DESCRIPTION OF JAMES CRAIG**
+
+Description Of James Craig
+==========================
 
 James Craig is a three masted Barque of approximately 1500 tonnes
 displacement with an overall length of 70 metres.
@@ -104,7 +107,9 @@ Refer to page 5 for the ship’s layout.
 
 Refer to page 6 for some of the ship’s facts and figures.
 
-**REQUIREMENTS TO JOIN THE CREW**
+
+Requirements To Join The Crew
+=============================
 
     Join the Sydney Heritage fleet. Membership entitles crew to access
     all the numerous activities and benefits of the fleet.
@@ -156,7 +161,9 @@ number of members’ wishing to do the course the Fleet may be able to
 arrange for OTEN to conduct the course in-house. The alternative is to
 approach these organizations direct.
 
-**TRAINING PROGRAMME**
+
+Training Programme
+==================
 
 Sailing the James Craig is a practical skill developed by participation.
 The contents of this manual are designed to provide support to assist
@@ -173,7 +180,9 @@ officer.
 Copies of the ‘Diary of Service and Experience Log’ book are available
 from the Training Coordinator.
 
-**TRAINING SYLLABUS**
+
+Training Syllabus
+=================
 
 Modules 1 to 11 plus a day at sea are designed to introduce new crew to
 the James Craig.
@@ -233,12 +242,6 @@ Quarter Deck and Main Deck (Follow arrows on first map)
 
 Stations; 18. Engine controls 19. Helm 20. Compass binnacle 21. Cabinet
 work 22. Bell 23. Main deck 24. Fife rail & bilge pump.
-
-2. .. rubric:: 
-      :name: section
-
-   .. rubric:: 
-      :name: section-1
 
 **JAMES CRAIG FACTS AND FIGURES**
 

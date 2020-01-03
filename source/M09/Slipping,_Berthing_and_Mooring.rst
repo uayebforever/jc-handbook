@@ -61,45 +61,46 @@ Service and Experience Log’ book.
 
 **Outcome:**
 
-3. .. rubric:: 
-      :name: section-1
+Crew to competently and safely carry out the tasks
+covered in the module.
 
-   .. rubric:: Crew to competently and safely carry out the tasks
-      covered in the module.
-      :name: crew-to-competently-and-safely-carry-out-the-tasks-covered-in-the-module.
-
-   .. rubric:: BERTHING HAWSERS
-      :name: berthing-hawsers
+Berthing Hawsers
+================
 
 Diagram shows how berthing hawsers are used to secure a ship alongside a
 wharf or a jetty. In this case Port Side to.
 
 |image0|
 
-**Springs**.
+Springs
+-------
 
 The hawser marked 3 is known as the fore spring and the hawser marked 4
 as the after spring. When a ship is secured alongside, the springs
 prevent her from surging ahead or astern at her berth, and together they
 assist the breast ropes marked 2 and 5 to keep her close alongside.
 
-**Head and stern Ropes**.
+Head and stern Ropes
+--------------------
 
 The hawsers marked 1 & 6 are known as the head rope and the stern rope.
 They assist the springs in preventing the ship from surging, and they
 are also used to adjust the position of the ship along the wharf or
 jetty, especially when she is going alongside.
 
-**Breast ropes**.
+Breast ropes
+------------
 
 The ship has two breast ropes, marked 2 & 5, which are known
 respectively as the fore and after breast ropes. They are used to breast
 the ship bodily towards the jetty when coming alongside, and when
 belayed they limit her distance from the jetty.
 
-**BERTHING.**
+Berthing
+========
 
-**Aboard.**
+Aboard
+------
 
 When a ship is going alongside, the berthing hawsers required for
 working the ship to her berth will usually be a head rope, a stern rope,
@@ -136,13 +137,15 @@ A berthing hawser may also be *rove doubled* when there is no shore
 party to cast it off when the ship slips, both ends of the hawser are
 made fast inboard.
 
-**On the wharf.**
+On the wharf
+------------
 
 Berthing party members stand by to receive heaving lines which will be
 used to haul the attached hawser ashore. Place the hawser eye on the
 bollard required.
 
-**SECURING A LINE TO A HAWSER**
+Securing A Line To A Hawser
+===========================
 
 Securing a heaving line to an eye in a hawser.
 
@@ -162,7 +165,8 @@ e.g. Breast lines.
 
 |image2|
 
-**THROWING A HEAVING LINE**
+Throwing A Heaving Line
+=======================
 
 A heaving line is a light flexible line, weighted at one end that can be
 thrown. It is used as a messenger to pass a hawser from ship to shore,
@@ -175,18 +179,19 @@ To prepare a line for throwing;
 1. Make the standing end fast.
 
 2. The line should be coiled carefully in the left hand. The last third
-of the coils can be of smaller diameter. Make sure the head will not
-pass back through the coils during the throw.
+   of the coils can be of smaller diameter. Make sure the head will not
+   pass back through the coils during the throw.
 
 3. One third of the line (smaller coils) is taken in the right or
-throwing hand. Line must be allowed to run free from the left hand.
+   throwing hand. Line must be allowed to run free from the left hand.
 
 There is more than one method of heaving a line and most good throwers
 have their own variations.
 
 Acknowledgement- Admiralty Manual of Seamanship Vol. 1
 
-**TO CATCH A TURN ROUND TWIN BOLLARDS OR BITT**
+To Catch A Turn Round Twin Bollards Or Bitt
+===========================================
 
 Diagram shows how to catch turns with line under strain round twin
 bollard. Note that the lead is first to the bollard furthest from the
@@ -204,7 +209,8 @@ man (or two with a very large hawser) can fleet it round the bollards,
 and at the same time be ready to back it up and take more turns when the
 strain comes on.
 
-**BACKING UP**
+Backing Up
+==========
 
 When a seaman finds that the strain on a hawser is becoming more than he
 can hold he instinctively takes a turn round the nearest bollard, cleat
@@ -213,14 +219,16 @@ with his own weight. If he expects a still heavier strain he takes as
 many additional turns round the fixture as are required to take the
 strain.
 
-**UN-BERTHING.**
+Un-berthing
+===========
 
-**On board**.
+On board
+--------
 
 Clear the area around the bitts and install safety barriers around the
 area.
 
-**Prepare lines.**
+Prepare lines.
 
 When a ship leaves a jetty the number of berthing hawsers required will
 depend upon the circumstances, but normally the head and stern ropes and
@@ -237,13 +245,17 @@ Stand clear of any lines that may come under load.
 
 Haul hawsers onboard smartly on command. Coil and stow securely.
 
-**On the wharf.**
+On the wharf
+------------
 
 Berthing party will cast off hawsers as instructed by the Officer of the
 Watch. Walk the hawsers along the wharf and avoid casting them into the
 water.
 
-**COILING DOWN A HAWSER OR LARGE DIAMETER LINE**
+
+
+Coiling Down A Hawser Or Large Diameter Line
+============================================
 
 Coiling down in the manner shown will enable to hawser to be run out
 quickly without upsetting the whole coil.
@@ -258,7 +270,10 @@ hawser to the outside and repeat.
 Step 2; Continue with layers. Stagger the leads to the outside on each
 layer.
 
-**WARPING THE SHIP.**
+
+
+Waring The Ship
+===============
 
 If it is necessary to reposition the ship while alongside without using
 the engines or tug it can be carried by using the berthing hawsers.
@@ -269,7 +284,8 @@ sur'e, take do÷n the slack, bring to the capstan, or$bela} them,
 as$sequired. Clore attention to!berthin' instrugtions a~d smartjesS io
 handling hawsers hs essdntial.
 
-**TUG.**
+Tug
+===
 
 A tug may be used when slipping and berthing. Make sure the ship’s rig
 will not foul the tug’s supurstructure.-Crew on board will receive the
@@ -282,7 +298,8 @@ Crew are to stand well clear of the line.
 
 Line is slipped after manoeuvre has been completed.
 
-**LIGHTERMANS HITCH, TUGMANS HITGH (ALSO refer Module 5 pages 17,18)**
+Lightermans Hitch, Tugmans Hitgh (also Refer Module 5 Pages 17,18)
+==================================================================
 
 To secure a berthing line to a single post or bitt.
 
@@ -291,35 +308,33 @@ applied and released under control. \`
 
 |image6|
 
-**TO CATCH TURN ON A SINGLE BOLLARD OR BITT**
+To Catch Turn On A Single Bollard Or Bitt
+=========================================
 
 When a rope is under strain, catching a turn round a single bollard is
 difficuht unless done corvectly.
 
-6\ |image7|
+|image7|
 
 Careful attention should be paid to the position of the hands and
 fingers to prevent them being nipped, especially if the hawser should
 render.
 
-6. .. rubric:: TWO OR BOLLARD OR MORE BERTHING HAWSERS OVER A SINGLE
-      BITT (Dipping an eye)
-      :name: two-or-bollard-or-more-berthing-hawsers-over-a-single-bitt-dipping-an-eye
+Two Or Bollard Or More Berthing Hawsers Over A Single Bitt (dipping An Eye)
+===========================================================================
 
-   .. rubric:: 
-      :name: section-2
+When two or more berthing hawsers have to be secured to
+the same bollard the eye of the second hawser must be passed
+up through the eye of the first before it is placed over the
+bollard, the eye of a third hawser must be passed up through the
+eyes of the first two, then over the bollard. The hawsers can then
+be cast off the bollard in any order.
 
-   .. rubric:: When two or more berthing hawsers have to be secured to
-      the same bollard the eye of the second hawser must be passed
-      up through the eye of the first before it is placed over the
-      bollard, the eye of a third hawser must be passed up through the
-      eyes of the first two, then over the bollard. The hawsers can then
-      be cast off the bollard in any order.
-      :name: when-two-or-more-berthing-hawsers-have-to-be-secured-to-the-same-bollard-the-eye-of-the-second-hawser-must-be-passed-upthrough-the-eye-of-the-first-before-it-is-placed-over-the-bollard-the-eye-of-a-third-hawser-must-be-passed-up-through-the-eyes-of-the-first-two-then-over-the-bollard.-the-hawsers-can-then-be-cast-off-the-bollard-in-any-order.
 
 |image8|
 
-**BERTHING PARTY CHECK LIST-**
+Berthing Party Check List
+=========================
 
 Berthing party is made up a Leader and 3 crew.
 
@@ -332,7 +347,8 @@ all times. Refer to Module 11, Page 8.
 
 Berthing party members are also the Ship’s Stretcher Party.
 
-**Slipping**
+Slipping
+--------
 
 1. Remove locked security chain from bollards.
 
@@ -352,7 +368,8 @@ Berthing party members are also the Ship’s Stretcher Party.
 
 9. Let go lines as requested by OOW.
 
-**Berthing**
+Berthing
+--------
 
 1. Bollards clear, in good condition and ready to receive lines.
 
@@ -369,32 +386,32 @@ Berthing party members are also the Ship’s Stretcher Party.
 7. Have lines ready to bring power cable/ water hose ashore.
 
 8. Ensure power cable is not taking any ship load.(i.e. not acting as a
-berthing line).
+   berthing line).
 
 9. Return equipment (heaving lines, spanners, chain key) to the ship.
 
 10. Stow life jackets.
 
-**SAFETY.**
+Safety
+======
 
 **Refer to Module 5 for Safe Line Handling.**
 
 1. Life jackets are to be worn by berthing party, at all Times.
 
 2. **DO NOT** stand in line or close to hawsers that are under or about
-to come under high loads. If it parts it may come straight back at you.
+   to come under high loads. If it parts it may come straight back at you.
 
 3. When removing or placing hawsers on the bollards or bits keep hands
-and
-
-fingers clear of dangers areas e.g. Where they may be placed between "
-the hawser and the bollard and squashed.
+   and fingers clear of dangers areas e.g. Where they may be placed between "
+   the hawser and the bollard and squashed.
 
 4. Synthetic hawsers under high load may part without warning. A danger
 
 Sign is a marked decrease in hawsers diameter. Move well clear
 
-**MOORING**
+Mooring
+=======
 
 In harbours and confined waterways where there is no room for a vessel
 to drop anchor or berth at a wharf, mooring buoys are sometimes
@@ -429,35 +446,41 @@ A typical mooring set-up.
 
 |image9|
 
-**Sketch of line set-up on the ship.**
+Sketch of line set-up on the ship
+---------------------------------
 
-    |image10|
+|moring-lines-onbard|
 
-    **STEPS.**
+Steps
+-----
 
-    **Securing to the buoy;**
+Securing to the buoy;
+^^^^^^^^^^^^^^^^^^^^^
 
-    1. Lines are set out on deck as in previous sketch.
+1. Lines are set out on deck as in previous sketch.
 
-    2. The sea boat takes a pickup rope to the buoy. If required the
-    ship’s windlass is used to haul the ship up to the buoy.
+2. The sea boat takes a pickup rope to the buoy. If required the
+   ship’s windlass is used to haul the ship up to the buoy.
 
-    3. Attach a heaving line to the bridle, Pass the heaving line
-    through the eye of the buoy and back to the ship.
+3. Attach a heaving line to the bridle, Pass the heaving line
+   through the eye of the buoy and back to the ship.
 
-    4. Use the heaving line to haul the Moring Bridle through the eye
-    and back on board and secure.
+4. Use the heaving line to haul the Moring Bridle through the eye
+   and back on board and secure.
 
-    4. Recover the pickup rope\*
+4. Recover the pickup rope\*
 
-    **Departure;**
+Departure;
+^^^^^^^^^^
 
-    Release one end of the Moring Bridle and haul through the buoy eye
-    and back to the ship.
+Release one end of the Moring Bridle and haul through the buoy eye
+and back to the ship.
 
-**Berthing Party – Check Lists**
+Berthing Party – Check Lists
+============================
 
-    **Departure**
+Departure
+---------
 
 -  Don life jackets (stored in Chart Room).
 
@@ -513,9 +536,8 @@ A typical mooring set-up.
 
 -  Stretcher Party to report to ship’s doctor for stretcher party drill
 
-..
-
-    **Arrival**
+Arrival
+-------
 
 -  Don life jackets BEFORE James Craig arrives at Harbour Bridge
 
@@ -573,9 +595,7 @@ A typical mooring set-up.
 
 -  Report ‘job done’ to Watch Leader.
 
-..
 
-    **For your Notes;**
 
 .. |image0| image:: ./media/image1.jpeg
    :width: 5.77014in
@@ -607,6 +627,6 @@ A typical mooring set-up.
 .. |image9| image:: ./media/image11.png
    :width: 3.61528in
    :height: 2.25833in
-.. |image10| image:: ./media/image12.wmf
+.. |moring-lines-onbard| image:: ./media/moring-setup-onboard.*
    :width: 5.76111in
    :height: 8.51944in

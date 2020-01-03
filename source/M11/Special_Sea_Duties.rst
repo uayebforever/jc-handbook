@@ -74,7 +74,8 @@ Service and Experience Log’ book.
 
 All crew to become fully competent at all special duties.
 
-**FORWARD LOOKOUT**
+Forward Lookout
+===============
 
 The ship’s forward eyes.
 
@@ -96,79 +97,68 @@ Remember;
 - A lookout is to be maintained in **All Directions**, not just forward.
 
 - Avoid “blind spots” created by jibboom, net, sails and rigging by
-moving about.
+  moving about.
 
 - A harness is to be worn at **all** times and clipped to the ship.
 
 - Be aware of jib and fore topmast staysail bullet blocks.
 
 - Prior to first trick (watch) of the voyage, lookout is to obtain a
-radio from the chart room and establish which channel to use. Carry out
-a radio check.
+  radio from the chart room and establish which channel to use. Carry out
+  a radio check.
 
 - Lookout is to radio the quarterdeck sighting of other vessels,
-navigation markers or buoys, breaking water, fishing buoys, any lights
-seen at night (e.g. navigation buoys, vessels, lighthouses) and anything
-unusual ahead of or approaching the ship’s course from any direction.
-Never assume the quarter deck may have seen what is observed.
+  navigation markers or buoys, breaking water, fishing buoys, any lights
+  seen at night (e.g. navigation buoys, vessels, lighthouses) and anything
+  unusual ahead of or approaching the ship’s course from any direction.
+  Never assume the quarter deck may have seen what is observed.
 
 - In harbour, be aware that you may be obstructing the forward view of
-the Quartermaster, who could be using a landmark ahead to guild the
-ship.
+  the Quartermaster, who could be using a landmark ahead to guild the
+  ship.
 
 - During daylight hours use the ship’s forward bell to answer the bell
-strike on the quarter deck, vis each half hour.
+  strike on the quarter deck, vis each half hour.
 
 Reports are given as:
 
-**D**\ irection - given in “Points” off the port or starboard bow
-(directly forward to abeam equals 8 points). Refer Module 3, page 8 for
-“ hand”
+  **D**\ irection - given in “Points” off the port or starboard bow
+  (directly forward to abeam equals 8 points). Refer Module 3, page 8 for
+  “hand” method of estimating points.
 
-method of estimating points.
+  **D**\ istance - using general terms such as “very close” (within 100m),
+  “close” (within 1km), “far” (several kilometres), “very far” (on the horizon).
 
-**D**\ istance - using general terms such as “very close” (within 100m),
-“close”
+  **D**\ escription - nice and brief, e.g. “a large ship”, “a yacht”, “a
+  small fishing boat”, “a commercial fishing boat”, “a yellow buoy”.
 
-(within 1km), “far” (several kilometres), “very far” (on the
+  **D**\ estination - “it’s standing still”, “it’s heading towards us”,
+  “it’s moving away from us”.
 
-horizon).
-
-**D**\ escription - nice and brief, e.g. “a large ship”, “a yacht”, “a
-small fishing
-
-boat”, “a commercial fishing boat”, “a yellow buoy”.
-
-**D**\ estination - “it’s standing still”, “it’s heading towards us”,
-“it’s moving
-
-    away from us”.
-
-**D**\ eviation - any change in target’s speed or heading.
+  **D**\ eviation - any change in target’s speed or heading.
 
 *Example of typical report*:
 
-*Call* – “Quarterdeck this is Focs’l.”
+  *Call* – “Quarterdeck this is Focs’l.”
 
-*Reply* – “Focs’l this is quarterdeck.”
+  *Reply* – “Focs’l this is quarterdeck.”
 
-*Report* – “Four points off our starboard bow and close, a fishing boat
-stationary
+  *Report* – “Four points off our starboard bow and close, a fishing boat
+  stationary
 
-*Reply* – “Quarterdeck romeo.”
+  *Reply* – “Quarterdeck romeo.”
 
 When being relieved, lookout is to brief new lookout on what objects are
 currently visible and which have/have not been reported aft.
 
 New lookout should then carry out a radio check with quarter deck- e.g.
 
-*Call* – “Quarterdeck this is Focs’l radio check.”
+  *Call* – “Quarterdeck this is Focs’l radio check.”
 
-*Reply* – “Focs'l this is quarterdeck - loud and clear.” or “breaking
+  *Reply* – “Focs'l this is quarterdeck - loud and clear.” or “breaking up.” or as the case may be.
 
-    up.” or as the case may be.
-
-**CAPTAIN'S RUNNER**
+Captain's Runner
+================
 
 This position is manned at all times while the ship is underway.
 
@@ -207,7 +197,9 @@ New runner should then carry out a radio check with the focs’l; e.g.
     *Reply* - "Quarterdeck this is Focs’l. Loud and clear.” or “breaking
     up.” or as the case may be.
 
-**HELMSMAN** (**Or Quartermaster )**
+
+Helmsman (or Quartermaster)
+===========================
 
 A crew member is assigned to be the Helmsman (Quartermaster, Mud-pilot)
 for a voyage.
@@ -240,23 +232,23 @@ so that the OOW knows the helmsman has heard him correctly. When the
 order has been completed (executed) again report as in the following
 example.
 
-    *00W* *order* – “Three turns to port.”
+    *00W order* – “Three turns to port.”
 
     *Helmsman immediately repeats order* – “Three turns to port, Sir.”
 
-    *When turns completed, report* – “ Three turns to port on Sir."
+    *When turns completed, report* – "Three turns to port on Sir."
 
     Or,
 
-    *OOW* *order* – “Come to port and steer two seven zero.”
+    *OOW order* – “Come to port and steer two seven zero.”
 
     *Helmsman* - “Steer two seven zero, Sir.”
 
     *When complete, and the ship is steady on the new heading report* -
-    *“Ship's head steady two seven zero Sir.”*
+    “Ship's head steady two seven zero Sir.”
 
-    Note; Numbers such as 270 are spoken as “two, seven, zero” **NOT**
-    as “two hundred and seventy”.
+Note; Numbers such as 270 are spoken as “two, seven, zero” **NOT**
+as “two hundred and seventy”.
 
 Prior to first trick of a voyage, Quartermaster for the voyage;
 
@@ -276,7 +268,8 @@ Prior to first trick of a voyage, Quartermaster for the voyage;
 
 - check compass.
 
-PROCEDURE FOR RELIEVING AT THE WHEEL
+Procedure For Relieving At The Wheel
+------------------------------------
 
 The process of change of helmsman is an important and formal part of the
 ship's routine, which should be meticulously learnt and performed.
@@ -289,7 +282,7 @@ steering conditions.
 He should first approach the OOW., introduce himself and seek permission
 to take over the wheel in the following terms:
 
-“Officer of the Watch Sir - this is …………. - permission to take the
+“Officer of the Watch Sir - this is... - permission to take the
 wheel?”
 
 The Officer of the Watch, taking into account such factors as,
@@ -300,15 +293,11 @@ The Officer of the Watch, taking into account such factors as,
 
 -  the proximity of other ships and the time required for new helmsman
    to settle into the steering role, will either approve the request by
-   saying,
+   saying, “Yes please.”
 
-..
+   Or, if a delay is considered, he will say –
 
-    “Yes please.”
-
-Or, if a delay is considered, he will say –
-
-“Please stand by.”
+   “Please stand by.”
 
 On receiving approval to take over the wheel the relieving Helmsman will
 introduce himself to the current helmsman, saying –
@@ -353,7 +342,8 @@ Craig than in a normal merchant ship where the names and professional
 capabilities of the crew are well known to the master and officers of
 the watch.
 
-**LAZY HELMSMAN**
+Lazy Helmsman
+=============
 
 This post is not regularly filled unless weather or other factors are
 making steering difficult.
@@ -370,11 +360,8 @@ direction.
 
 When relieved there is no need to report to O.O.W.
 
-#. .. rubric:: 
-      :name: section
-
-   .. rubric:: STERN LOOKOUT (INCLUDES MAN OVERBOARD LOOKOUT)
-      :name: stern-lookout-includes-man-overboard-lookout
+Stern Lookout (includes Man Overboard Lookout)
+==============================================
 
 The ship’s eyes aft.
 
@@ -419,7 +406,8 @@ when rescue boat is back and secure in its cradle.
 
 When being relieved, there is no need to report to OOW.
 
-**FIRE PARTY**
+Fire Party
+==========
 
 **Primary role.**
 
@@ -460,7 +448,8 @@ enter the space until assistance arrives.
 - On completion of the patrol, record the entry in the Log and advise
 the OOW.
 
-**SHORE/BERTHING PARTY**
+Shore/berthing Party
+====================
 
 Berthing party is responsible for handling the ship’s lines on shore for
 departure and on arrival.
@@ -480,7 +469,8 @@ They also clear, stow and install the gangway.
 
 Party is ferried to and from the ship by attending tug.
 
-**SEA BOAT**
+Sea Boat
+========
 
 The sea boat is manned by a crew of 2, Coxswain and crew.
 
@@ -494,7 +484,8 @@ Refer to Module 12 for details of Small Boat Handling.
 
 Members of this team DO NOT CLIMB.
 
-**STRETCHER PARTY**
+Stretcher Party
+===============
 
 The party is made up of the 4 members of the Shore/Berthing Party.
 
@@ -504,7 +495,8 @@ call for stretcher party.
 Shore/Berthing party leader is to check all the equipment prior to
 departure and brief his crew.
 
-**LIFE RAFT PREPARATION**
+Life Raft Preparation
+=====================
 
 Each raft party is made up of a leader and 3 crew.
 
@@ -512,7 +504,8 @@ Leader checks the raft and rig. Report any damage or irregularity.
 
 If necessary, in emergency situation, rig life raft for launch.
 
-**FIRST AID**
+First Aid
+=========
 
 This position is not listed on the crew cards.
 
@@ -525,7 +518,8 @@ should be familiar with the location of all first aid kits on board.
 Crew members should be able to render first aid assistance to fellow
 crew or passengers in need.
 
-**DAMAGE CONTROL**
+Damage Control
+==============
 
 This party is made up of members of the Fire Party.
 
@@ -535,7 +529,8 @@ assemble to secure the situation.
 Location of tools etc. and materials are to be noted in case they are
 needed.
 
-**SPILL**
+Spill
+=====
 
 This party is made up of members of the Fire Party.
 
@@ -544,11 +539,11 @@ any form of spill.
 
 Refer to Module 16 - Spill.
 
-**RECOVERY FROM ALOFT**
+Recovery From Aloft
+===================
 
 This is a special party made up of Topmen, who, in need with the aid of
 special gear, render assistance to crew in difficulty aloft.
 
 Refer to Module 18 – Recovery from aloft.
 
-**For your note;**

@@ -114,7 +114,8 @@ For crew to competently inspect and fit climbing harness and lanyards.
 
 To competently and safely climb in the rigging of the James Craig.
 
-**WORKING ALOFT RULES**
+Working Aloft Rules
+===================
 
 It is **not** compulsory for all crew to climb, however **all** crew
 will complete the training and be aware of the rules, especially those
@@ -125,195 +126,203 @@ weather and the sooner they get used to it the easier it will be.
 You will be shown how to put on your safety harness, (refer to next
 section) and told what to do and what not to do based on the following.
 
-**Climbing.**
+Climbing
+--------
 
-. **No crewmember is to climb into the rig of the ship without approval
-of their watchleader who will clear with the officer of the watch.**
+- **No crewmember is to climb into the rig of the ship without approval
+  of their watchleader who will clear with the officer of the watch.**
 
-**.** Always use the weather rigging.
+-  Always use the weather rigging.
 
-a. The wind is keeping it more rigid than the lee rigging.
+  a. The wind is keeping it more rigid than the lee rigging.
 
-b. If the ship is heeling it is at a better angle.
+  b. If the ship is heeling it is at a better angle.
 
-c. The yards and sails will be clear of the rigging.
+  c. The yards and sails will be clear of the rigging.
 
-**.** Use the shrouds as handholds, NOT the ratlines that can break or
-someone may step on your hands. Also, our hand-grip is to stop us from
-swinging out, so something firm and something we can slide our hand up
-and down should be used: that's the shrouds.
+- Use the shrouds as handholds, NOT the ratlines that can break or
+  someone may step on your hands. Also, our hand-grip is to stop us from
+  swinging out, so something firm and something we can slide our hand up
+  and down should be used: that's the shrouds.
 
-**.** It is important to “walk” up and over with legs rather than
-pulling up using arms/upper body.
+- It is important to “walk” up and over with legs rather than
+  pulling up using arms/upper body.
 
-**.** Do not use knees to climb onto the tops.
+- Do not use knees to climb onto the tops.
 
-**.** Clip on to static safety lines where fitted.
+- Clip on to static safety lines where fitted.
 
-**.** When climbing aloft never let go with one hand until you have a
-good grip with the other. Always remember one hand for yourself and one
-hand for the ship. You have four available points of contact when you
-are going aloft, two feet and two hands. Always have three in contact
-with the rig. Do not overreach.
+- When climbing aloft never let go with one hand until you have a
+  good grip with the other. Always remember one hand for yourself and one
+  hand for the ship. You have four available points of contact when you
+  are going aloft, two feet and two hands. Always have three in contact
+  with the rig. Do not overreach.
 
-**.** Use both hands when climbing. Do not carrying anything aloft in
-your hands while climbing. Haul tools etc aloft later.
+- Use both hands when climbing. Do not carrying anything aloft in
+  your hands while climbing. Haul tools etc aloft later.
 
-**.** Never use running rigging as a grip as someone on deck may let it
-go without warning.
+- Never use running rigging as a grip as someone on deck may let it
+  go without warning.
 
-**.** Never clip onto any running rigging or to a vertical part of the
-standing rigging which will merely give you a rapid guided descent to
-the deck. Best advice is, do not fall from aloft.
+- Never clip onto any running rigging or to a vertical part of the
+  standing rigging which will merely give you a rapid guided descent to
+  the deck. Best advice is, do not fall from aloft.
 
-**.** Using clips. Reach up and clip on. Climb until the clip is level
-with your waist then reach up with the other clip and clip on. Un-clip
-the first clip and climb. Repeat the process.
+- Using clips. Reach up and clip on. Climb until the clip is level
+  with your waist then reach up with the other clip and clip on. Un-clip
+  the first clip and climb. Repeat the process.
 
-. Straddle a shroud with your feet, do not have both feet on the one
-ratline.
+- Straddle a shroud with your feet, do not have both feet on the one
+  ratline.
 
-**.** When working aloft clip your safety harness to the safety line
-that runs along the back of the yards or to a part of the rig that will
-not move, such as the jackstay on a yard, or a fitting on the mast where
-you are working.
+- When working aloft clip your safety harness to the safety line
+  that runs along the back of the yards or to a part of the rig that will
+  not move, such as the jackstay on a yard, or a fitting on the mast where
+  you are working.
 
-**.** When waiting behind another crewmember, clip on and maintain a
-safe distance
+- When waiting behind another crewmember, clip on and maintain a
+  safe distance below the other climber.
 
-below the other climber.
+- At all times, while climbing and working in the ship’s rigging
+  crew are to be clipped on with at least one hook. Thus the two hooks are
+  in use all the time from the deck up, alternating hooks as you move
+  about.
 
-**.** At all times, while climbing and working in the ship’s rigging
-crew are to be clipped on with at least one hook. Thus the two hooks are
-in use all the time from the deck up, alternating hooks as you move
-about.
+- When stepping onto braced yards, use both hooks. One on the
+  shrouds while clipping the other onto yard safety wire.
 
-**.** When stepping onto braced yards, use both hooks. One on the
-shrouds while clipping the other onto yard safety wire.
+- Do not drop your hooks as there may be someone below you.
 
-**.** Do not drop your hooks as there may be someone below you.
+- Call when clear of the tops on the way up or down.
 
-**.** Call when clear of the tops on the way up or down.
+Moving onto and along yards
+---------------------------
 
-**Moving onto and along yards.**
+- Get on and off footropes carefully or you may bounce a shipmate
+  off a yard.
 
-**.** Get on and off footropes carefully or you may bounce a shipmate
-off a yard.
+- When laying out onto or leaving a yard, call to others “Stepping
+  out starboard (or port)"or "Stepping off starboard (or port)”. Get an
+  acknowledgement from the climbers on the yard, do not just talk to the
+  mast in front of you.
 
-**.** When laying out onto or leaving a yard, call to others “Stepping
-out starboard (or port)"or "Stepping off starboard (or port)”. Get an
-acknowledgement from the climbers on the yard, do not just talk to the
-mast in front of you.
+- Only go onto hoisted yards with the Watch Leader’s approval (the
+  Watch Leader will have or will get approval from the Officer of the
+  Watch).
 
-**.** Only go onto hoisted yards with the Watch Leader’s approval (the
-Watch Leader will have or will get approval from the Officer of the
-Watch).
+  Precautions 
 
-Precautions - Halyards have been made fast.
+  - Halyards have been made fast.
 
-- Braces are taut
+  - Braces are taut
 
-Dangers - Halyards parting
+  Dangers 
 
-- Un-announced use of halyards.
+  - Halyards parting
 
-**.** When going out on a hoisting yard make certain it is in its lifts
-and the braces are set up taut. Yards can get stuck, and your extra
-weight will bring it down with a jerk that can easily throw you off. If
-the braces are slack the yard will jerk as the ship rolls and again this
-can throw you off.
+  - Un-announced use of halyards.
 
-**.** When laying out on a yard, hold on to the jackstay, which is on
-top of the yard.
+- When going out on a hoisting yard make certain it is in its lifts
+  and the braces are set up taut. Yards can get stuck, and your extra
+  weight will bring it down with a jerk that can easily throw you off. If
+  the braces are slack the yard will jerk as the ship rolls and again this
+  can throw you off.
 
-**Caution; with the sail furled on top of the yard, extreme care should
-be used when selecting a handhold.**
+- When laying out on a yard, hold on to the jackstay, which is on
+  top of the yard.
 
-**.** Never use the following as handholds:
+    **Caution; with the sail furled on top of the yard, extreme care should
+    be used when selecting a handhold.**
 
-- A gasket, as it may be loose and give way.
+- Never use the following as handholds:
 
-- The bight of a sail, as the wind may suddenly get into it.
+  - A gasket, as it may be loose and give way.
 
-- The bunt-lines may not be made fast down on deck.
+  - The bight of a sail, as the wind may suddenly get into it.
 
-- The safety line, as you can push others off the yard.
+  - The bunt-lines may not be made fast down on deck.
 
-**.** Never stand on a yard or straddle it unless ordered to for some
-special task and, when you do, use great care. Think what you will do if
-the sail suddenly fills with wind, so always have a good grip of a part
-of the standing rigging.
+  - The safety line, as you can push others off the yard.
 
-**. C**\ limb directly up or down between the lower and upper topsail
-yards should only be undertaken by crew who a comfortable with the
-procedure. DO NOT USE THE SAFETY WIRES AS FOOT ROPES.
+- Never stand on a yard or straddle it unless ordered to for some
+  special task and, when you do, use great care. Think what you will do if
+  the sail suddenly fills with wind, so always have a good grip of a part
+  of the standing rigging.
 
-. Use the stirrups as a good point for ascending or descending.
+- Climb directly up or down between the lower and upper topsail
+  yards should only be undertaken by crew who a comfortable with the
+  procedure. DO NOT USE THE SAFETY WIRES AS FOOT ROPES.
 
-**Working sails on the yards.**
+- Use the stirrups as a good point for ascending or descending.
 
-**.** When loosing or furling sails, remember, loose from lee, furl from
-windward.
+Working sails on the yards
+--------------------------
 
-**.** When casting off gaskets, make sure it is clear below before
-releasing gasket or gasket coil, call warning "Rope below" before
-dropping the gasket.
+- When loosing or furling sails, remember, loose from lee, furl from
+  windward.
 
-. Do not cast off gaskets until the timber hitches of ALL the gaskets on
-the yard are undone.
+- When casting off gaskets, make sure it is clear below before
+  releasing gasket or gasket coil, call warning "Rope below" before
+  dropping the gasket.
 
-**.** When pushing a sail off a yard make certain that all the gaskets
-are off. If one is missed it will either carry away or more probably
-tear the sail.
+- Do not cast off gaskets until the timber hitches of ALL the gaskets on
+  the yard are undone.
 
-**.** When loosing topsails, loose the lower topsail first then the
-upper topsail. The reverse applies when furling i.e. Furl the upper then
-the lower.
+- When pushing a sail off a yard make certain that all the gaskets
+  are off. If one is missed it will either carry away or more probably
+  tear the sail.
 
-**.** When loosing an upper topsail make certain there is no one on the
-lower topsail yard before pushing it off into its gear.
+- When loosing topsails, loose the lower topsail first then the
+  upper topsail. The reverse applies when furling i.e. Furl the upper then
+  the lower.
 
-**.** When the sail is in its gear always remember to coil the gasket
-and place it onto the fore side of the sail. A loose gasket can foul a
-clew line or buntline block and jam it. If this happens someone will
-have to go aloft and clear it whilst a thrashing sail tries to knock the
-person off.
+- When loosing an upper topsail make certain there is no one on the
+  lower topsail yard before pushing it off into its gear.
 
-**.** When calling instructions to the deck, be clear and concise.
-Attract attention with call “Ahoy on deck”.
+- When the sail is in its gear always remember to coil the gasket
+  and place it onto the fore side of the sail. A loose gasket can foul a
+  clew line or buntline block and jam it. If this happens someone will
+  have to go aloft and clear it whilst a thrashing sail tries to knock the
+  person off.
 
-**Tools.**
+- When calling instructions to the deck, be clear and concise.
+  Attract attention with call “Ahoy on deck”.
 
-**.** When you take tools aloft always put them on lanyards and secures
-one end to your wrist or belt. You will also be working on gear aloft
-that cannot be attached to you such as shackles and pins, which are
-easily dropped with cold hands. If there is a potential danger of you
-dropping something shout loud and clear **“Stand from under”** so that
-anyone on deck has a chance to get out of the way.
+Tools
+-----
 
-**General.**
+- When you take tools aloft always put them on lanyards and secures
+  one end to your wrist or belt. You will also be working on gear aloft
+  that cannot be attached to you such as shackles and pins, which are
+  easily dropped with cold hands. If there is a potential danger of you
+  dropping something shout loud and clear **“Stand from under”** so that
+  anyone on deck has a chance to get out of the way.
 
-**.** At first you will be very careful working aloft but it is easy to
-relax and become over confident. Do not get casual or sooner or later
-you will come to grief so always obey these rules and never fool around
-aloft. It is a long way to the deck and few people survive the journey.
+General
+-------
 
-**.** The safety harness is a piece of equipment to protect you from
-hitting the deck if you slip when aloft.
+- At first you will be very careful working aloft but it is easy to
+  relax and become over confident. Do not get casual or sooner or later
+  you will come to grief so always obey these rules and never fool around
+  aloft. It is a long way to the deck and few people survive the journey.
 
-**.** Always come on deck wearing it because you may be sent aloft
-without warning.
+- The safety harness is a piece of equipment to protect you from
+  hitting the deck if you slip when aloft.
 
-**.** No crewmember is to be aloft during departure from, or arrival at,
-a wharf.
+- Always come on deck wearing it because you may be sent aloft
+  without warning.
 
-**.** Do not change the position of another crewmember’s hook. Only with
-their permission and **they** must check.
+- No crewmember is to be aloft during departure from, or arrival at,
+  a wharf.
+
+- Do not change the position of another crewmember’s hook. Only with
+  their permission and **they** must check.
 
 **. Remember, at all times you must be attached to the rig from the deck
 up.**
 
-**WORKING ALOFT CHECK LIST**
+Working Aloft Check List
+========================
 
 Personal Check;
 
@@ -386,8 +395,7 @@ Working on Yards;
 
 -  When stepping down or up between topsail yards use caution.
 
-   #. .. rubric:: Returning to deck;
-         :name: returning-to-deck
+Returning to deck;
 
 - Do not jump from the pin rail to the deck.
 
@@ -397,16 +405,10 @@ Working on Yards;
 
 - Have a drink of water.
 
-2. .. rubric:: 
-      :name: section
+**ABOVE ALL DO NOT BECOME COMPLACENT!**
 
-   .. rubric:: 
-      :name: section-1
-
-   .. rubric:: ABOVE ALL DO NOT BECOME COMPLACENT
-      :name: above-all-do-not-become-complacent
-
-CLIMBING EQUIPMENT
+Climbing Equipment
+==================
 
 **NOTE. This equipment is for safety purposes only. It is not to be used
 as a working harness to support the wearer while working aloft.**
@@ -419,40 +421,44 @@ The equipment has three components;
 
 3. Two lanyards, each with energy absorber, karabiner and 1 hook.
 
+
 Harness
+-------
 
 |image0|
 
-**Checking and Fitting harness.**
+Checking and Fitting harness
+----------------------------
 
 1. Check the condition of the webbing and safety stitching. Look for
-cuts in the webbing, wear and damage due to use, to heat, and to contact
-with chemical products etc. If you are unsure of the harness’s
-condition, remove the harness assembly from service and present the
-harness to the first mate at sea or the “James Craig” operations manager
-alongside, for inspection by the rigger.
+   cuts in the webbing, wear and damage due to use, to heat, and to contact
+   with chemical products etc. If you are unsure of the harness’s
+   condition, remove the harness assembly from service and present the
+   harness to the first mate at sea or the “James Craig” operations manager
+   alongside, for inspection by the rigger. 
 
-If in doubt do not use the harness
+   If in doubt do not use the harness
 
 2. Ensure that the leg strap buckles are not obstructed and operate
-smoothly.
+   smoothly.
 
 3. Check for correct locking of rapid action fast buckles. Point 5 in
-diagram above.
+   diagram above.
 
 |image1| |image2|
 
 4. Check sternal fall arrest loops for chafe or damage. Arrest point A3
-in diagram above.
+   in diagram above.
 
 5. Check rear fall attachment point for damage. Arrest point A2 in
-diagram above.
+   diagram above.
 
-**Sternal Fall Arrest Karabiner.**
+Sternal Fall Arrest Karabiner
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 6. The sternal fall arrest karabiner has a triple-action opening system
-with automatic locking. Slide the sleeve along the gate and turn it to
-unlock. The gate should open smoothly in one continuous motion.
+   with automatic locking. Slide the sleeve along the gate and turn it to
+   unlock. The gate should open smoothly in one continuous motion.
 
 |image3| |image4|
 
@@ -460,22 +466,24 @@ unlock. The gate should open smoothly in one continuous motion.
 
 8. Fit to join the two harness loops as shown in diagram (e) below.
 
-**Fall arrest lanyard (with screw lock karabiner & hook).**
+Fall arrest lanyard (with screw lock karabiner & hook)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 9. Check fall arrest lanyards, energy absorbers and hooks for damage and
-distortion.
+   distortion.
 
 10. Ensure that hooks are not damaged or bent and operate smoothly.
 
 11. On each lanyard check that karabiner connecting lanyard and scaffold
-hook is closed and secure. You must not be able to open the nut by hand.
+    hook is closed and secure. You must not be able to open the nut by hand.
 
 12. Report any defects/ damage. If in doubt do not use suspect lanyard,
-remove from service and present the assembly to the first mate at sea or
-the “James Craig” operations manager alongside for inspection by the
-rigger.
+    remove from service and present the assembly to the first mate at sea or
+    the “James Craig” operations manager alongside for inspection by the
+    rigger.
 
-**Fitting harness**
+Fitting harness
+^^^^^^^^^^^^^^^
 
 Fitting diagrams.
 
@@ -494,26 +502,27 @@ Fitting diagrams.
 |image8|
 
 17. Diagram e - Close the harness by clipping the sternal fall arrest
-karabiner through the sternal (front) fall arrest attachment loops.
+    karabiner through the sternal (front) fall arrest attachment loops.
 
 18. Adjust harness to achieve the correct fitted position.
 
 |image9|
 
 19. Double check that karabiner is operating correctly and has closed
-correctly.
+    correctly.
 
 20. Carry out “buddy” check. (Refer to working aloft check list above.)
 
 21. Test the harness prior to use, and before climbing aloft, by moving
-and hanging in it (but not from the fall arrest lanyard), from all
-attachment points to ensure harness is the correct size and fit and
-comfortable for use.
+    and hanging in it (but not from the fall arrest lanyard), from all
+    attachment points to ensure harness is the correct size and fit and
+    comfortable for use.
 
-***Fall arrest lanyards should not be hung in as it can damage the fall
-arrest mechanism.***
+**Fall arrest lanyards should not be hung in as it can damage the fall
+arrest mechanism.**
 
-**Fall arrest points in use.**
+Fall arrest points in use
+-------------------------
 
 Back fall arrest point. Front fall arrest point
 
@@ -525,7 +534,10 @@ Alternate hitching methods, good and bad.
 
 |image15| |image16|
 
-**Care and maintenance of equipment.**
+
+
+Care and maintenance of equipment
+---------------------------------
 
 1. Do not drag harness or lanyards on the deck or ground.
 
@@ -550,10 +562,12 @@ Alternate hitching methods, good and bad.
 9. Do not carry out modifications to the harness or lanyards.
 
 10. When stowing place scaffold hooks in the rear fall arrest attachment
-point and hang the harness on the rack pin using the fall arrest
-attachment point.
+    point and hang the harness on the rack pin using the fall arrest
+    attachment point.
 
-**Static line climbing.**
+
+Static line climbing
+====================
 
 Fixed static lines have been installed on both sides of the fore and
 main masts.
@@ -562,7 +576,9 @@ These are for ASAP travellers and are purely supplementary climbing
 safety aid to expedite rig climbers ascending and descending the Main
 and Fore Masts.
 
-**Setup.**
+
+Setup
+-----
 
 Permanent black double braided static lines have been added to the rig.
 
@@ -583,7 +599,9 @@ climb.
 
 Refer to diagrams below for details of the ASAP and assembly.
 
-**Use;**
+
+Use
+---
 
 In use the ASAP links a climber to the Static Lines by a short lanyard
 fitted with a shock absorber thus allowing the climber to ascend or
@@ -593,7 +611,7 @@ Static Line securing the climber.
 1. Static lines and ASAPs’ are to be used as **safety device only**.
 
 2. Fall system **is not** to be used to secure a climber while carrying
-out work aloft.
+   out work aloft.
 
 3. Number of crew on a static line at any one time – 3
 
@@ -601,62 +619,64 @@ Routine;
 
 1. Static lines to be inspected before each sailing event.
 
-Check top anchor point.
+  Check top anchor point.
 
-Check the full length of the static line. (Chafe, signs of inner core
-damage, case damage)
+  Check the full length of the static line. (Chafe, signs of inner core
+  damage, case damage)
 
-Check for chafe where the lines cross the tops platform and at gate
-stations.
+  Check for chafe where the lines cross the tops platform and at gate
+  stations.
 
-Check deck level security – Damp/Rot etc.
+  Check deck level security – Damp/Rot etc.
 
 2. Checks are to be carried out by a Watchleader/Bosun/Rigger.
 
 3. Installation of arrestors is to be carried out by the
-Watchleader/Bosun.
+   Watchleader/Bosun.
 
 3. At least 1 unit is to be located on the lee side static line (royal
-line) for emergency purposes.
+   line) for emergency purposes.
 
-**Use by a climber.**
+Use by a climber
+----------------
 
-**1. Normal climbing requirements apply.**
+1. **Normal climbing requirements apply.**
 
-**2.** The number of ASAP’s is limited so allocation of use is
-controlled by the Watchleader. Other climber use the established 2 hook
-system, especially for the lower yards such as the course.
+2. The number of ASAP’s is limited so allocation of use is
+   controlled by the Watchleader. Other climber use the established 2 hook
+   system, especially for the lower yards such as the course.
 
-**3.** When on the rail the ASAP is attached to the climber using its
-**short ASAP lanyard** to the sternal loop on the climbers harness.
+3. When on the rail the ASAP is attached to the climber using its
+   **short ASAP lanyard** to the sternal loop on the climbers harness.
 
-**DO NOT USE EITHER OF THE TWO HARNESS HOOKS TO ATTACH TO THE ASAP OR
-ASAP LANYARD.**
+  **DO NOT USE EITHER OF THE TWO HARNESS HOOKS TO ATTACH TO THE ASAP OR
+  ASAP LANYARD.**
 
-**4.** Climber can then ascent using the ASAP only.
+4. Climber can then ascent using the ASAP only.
 
-**5.** Below the tops negotiate the “Gates”.
+5. Below the tops negotiate the “Gates”.
 
-**6.** Proceed.
+6. Proceed.
 
-**7.** At desired yard transfer to the 2 line system.
+7. At desired yard transfer to the 2 line system.
 
-**8.** Once disconnected from the ASAP clip the karabiner to a rat line
-to prevent the ASAP descending to the deck.
+8. Once disconnected from the ASAP clip the karabiner to a rat line
+   to prevent the ASAP descending to the deck.
 
-**9.** As the ASAP are attached to the static line any following
-climber, using the same line, wishing to go higher will have to transfer
-to the ASAP, leaving their ASAP, and proceeding.
+9. As the ASAP are attached to the static line any following
+   climber, using the same line, wishing to go higher will have to transfer
+   to the ASAP, leaving their ASAP, and proceeding.
 
-The reverse applies when descending.
+   The reverse applies when descending.
 
-**10.** When a climber returns to the deck the ASAP remains on the
-static line.
+10. When a climber returns to the deck the ASAP remains on the
+    static line.
 
-**11.** **ALL SLIPS OR FALLS INVOLVING AN ASAP LOCK ARE TO BE REPORTED
-SO STATIC LINE CAN BE CHECKED FOR DAMAGE.**
+11. ALL SLIPS OR FALLS INVOLVING AN ASAP LOCK ARE TO BE REPORTED
+    SO STATIC LINE CAN BE CHECKED FOR DAMAGE.**
 
-**Stowage and maintenance.**
+Stowage and maintenance
+-----------------------
 
 1. Stowed in the bosun’s store (hung with free ventilation)
 
@@ -667,30 +687,35 @@ SO STATIC LINE CAN BE CHECKED FOR DAMAGE.**
 4. Register to be set up with inspection regime.
 
 5. Units are removed from the static lines after an event, inspected and
-stowed.
+   stowed.
 
-**Operation of equipment.**
+Operation of equipment
+----------------------
 
-|image17|
+1. Connecting ASAP to the Static Line.
 
-**2. Connecting ASAP to the Static Line**
+  |image17|
 
-**2. Fitting ASAP to the static line**
+2. Fitting ASAP to the static line.
 
-|image18|
+  |image18|
 
-|image19|
+.. comment: TODO Missing comments from the diagrams.
 
-See point 4 for method to be used to release the lock.
+3. How it locks in the event of a fall
 
-**4. Testing locking action.**
+  |image19|
 
-Use a piece of test rope for this. To practice on a static line will
-lead to unnecessary ware on the Static Lines.
+  See point 4 for method to be used to release the lock.
 
-|image20| |image21|
+4. Testing locking action.**
 
-|image22|
+  Use a piece of test rope for this. To practice on a static line will
+  lead to unnecessary ware on the Static Lines.
+
+  |image20| |image21|
+
+  |image22|
 
 REMEMBER, ACTIVITIES AT HEIGHTS ARE DANGEROUS AND MAY LEAD TO SEVERE
 INJURY OR EVEN DEATH. GAINING AN ADEQUATE APPRECIATION IN APPROPRIATE
@@ -701,7 +726,8 @@ TAKE CARE OF THE EQUIPMENT AND ACT WITH CARE AT ALL TIMES.
 ALSO REMEMBER, THE HARNESS YOU ARE PUTTING ON THIS TIME WILL HAVE BEEN
 USED BY SOMEBODY ELSE – DID THEY LOOK AFTER IT???????
 
-CLIMBING HINTS.
+Climbing Hints
+==============
 
 1. Hook on at or above your position when climbing or working.
 
@@ -720,7 +746,9 @@ CLIMBING HINTS.
 6. Do not drop your hook, when climbing, as you may hit the crew
    following.
 
-REPORT INCIDENTS.
+Report Incidents
+================
+
 
 Report all falls or near misses to a Watch Leader or Officer.
 
@@ -732,9 +760,8 @@ order.
 
 Record in the “Incident Book” located in the chart room.
 
-SYDNEY HERITAGE FLEET
-
-APPROVAL TO GO ALOFT
+Sydney Heritage Fleet - Approval To Go Aloft
+============================================
 
 NAME: …………………………………………………………………………..
 

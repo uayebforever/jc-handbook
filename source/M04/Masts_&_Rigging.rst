@@ -32,16 +32,16 @@ the names of Masts, Rigging and Sails.
 Qualified crew (Deckhands, Efficient Deckhands) need to be able to
 name:-
 
-    - ship’s spars
+- ship’s spars
 
-    - parts of the standing rigging
+- parts of the standing rigging
 
-    - ship's sails
+- ship's sails
 
-    - sail parts
+- sail parts
 
-    - the lines that control the sails & spars (running rigging) and
-    where they are located pin rails.( Refer Module 5 – pages 22 to 24).
+- the lines that control the sails & spars (running rigging) and
+where they are located pin rails.( Refer Module 5 – pages 22 to 24).
 
 Although the above may seem formidable, a structured and systematic
 approach to learning will facilitate the process.
@@ -50,14 +50,10 @@ This will involve:-
 
 - identify spars
 
-    - identifying the rigging as standing, running and other (flag
-    halyards,
+- identifying the rigging as standing, running and other (flag
+halyards, gantlines), on fore, main and mizzen masts and jibboom.
 
-    gantlines), on fore, main and mizzen masts and jibboom.
-
-    - observing the principles and patterns that govern where lines fall
-
-    utilising 'tools' such as these notes, rigging and pin diagrams.
+- observing the principles and patterns that govern where lines fall utilising 'tools' such as these notes, rigging and pin diagrams.
 
 **Assessment:**
 
@@ -69,7 +65,8 @@ task in crew members ‘Diary of Service and Experience Log’ book.
 Be able to identify and name the parts of the ship’s rig and able to
 locate a required line or pin without hesitation.
 
-**SPARS.**
+Spars
+=====
 
 Spars – This is a general term for all wood and metal supports used in
 rigging of a ship, it embraces all masts, yards, booms, gaffs etc.
@@ -173,7 +170,9 @@ and aft stability for the masts..
 
 |image5|
 
-**YARDS – BRACES**
+
+Yards – Braces
+==============
 
 The angle of the yards to the ship is controlled by the braces (running
 rigging) attached to the end of each yard. Refer to the diagram on the
@@ -182,7 +181,9 @@ previous page.
 To locate the pins to which the running end of the braces are attached
 on deck, refer to the pin diagrams in Module 5, pages 10,11 and 12.
 
-**YARD – HALYARDS**
+
+Yard – Halyards
+===============
 
 Arrangement of yards on both masts.
 
@@ -197,9 +198,9 @@ lowered, by their lifts (standing rigging).
 Each yard is hoisted by a halyard (running rigging). The yard is
 attached to the mast by a parral that slides on the mast.
 
-\\
 
-**SAILS.**
+Sails
+=====
 
 To set or take in sails some lines are eased while others are hauled.
 The following tables illustrate these, in general terms. Sail Handling
@@ -207,7 +208,9 @@ Module 7 will cover sail handling in more detail.
 
 Refer to page 13 for the sail plan.
 
-**Square sails running rigging.**
+
+Square sails running rigging
+----------------------------
 
 The head of a sail is lashed with robands to the jackstay on the yard.
 
@@ -227,7 +230,8 @@ The head of a sail is lashed with robands to the jackstay on the yard.
 |                      | Yard downhauls           |
 +----------------------+--------------------------+
 
-**Fore and aft sails running rigging.**
+Fore and aft sails running rigging
+----------------------------------
 
 Sails are made fast at the tack, the luff lashed to hanks, hoops or a
 jackstay, the clew is controlled by the sheets or outhaul, the head by a
@@ -245,7 +249,8 @@ halyard or outhaul and downhaul or inhaul.
 |                  | Brails               |
 +------------------+----------------------+
 
-**Other running rigging & lines.**
+Other running rigging & lines
+-----------------------------
 
 Some examples;
 
@@ -257,7 +262,10 @@ Bowsing line Flag/ signal halyard Etc.
 
 |image6|
 
-**PARTS OF TYPICAL SAILS AND HANDLING LINES.**
+
+
+Parts Of Typical Sails And Handling Lines
+=========================================
 
 Refer to diagram “Anatomy of a sail and spars” illustrated by James
 Parbery,
@@ -273,146 +281,79 @@ Module 7.
 
 |image10|
 
-**RIG CONVENTIONS**
+
+
+Rig Conventions
+===============
 
 Here are some of the internationally accepted conventions that govern
-
 the positioning of lines and their belaying pins.
 
-**1. The higher the sail, the further aft its lines belay**. This
-provides
+1. **The higher the sail, the further aft its lines belay**. 
+  This provides the fairest lead for lines and avoids chafe, the sailing ship's greatest enemy.
 
-the fairest lead for lines and avoids chafe, the sailing ship's greatest
+2. **Sheets for the square sails belay around the mast.**  
+  In accordance with convention 1, the lower topsail sheets will be on
+  the forward side of the mast, followed by topgallant sheets and royal
+  sheets being aftermost [#royalsheet]_. The reasoning is that a ship
+  on its beam ends (knocked down) in a squall will need to let go
+  sheets to reduce the pressure of wind on the sails. In such a
+  situation, if the sheets were belayed to the main rails, the lee ones
+  may be underwater.
 
-enemy.
+3. **Clew garnets, clewlines, leechlines, buntlines and upper topsail downhauls (the “gear”) are belayed at the main rail amongst the shrouds.** 
+  Lines controlling the course are grouped together, next aft is the group of lines controlling the lower topsail, then the upper topsail and so on. Aloft, the further inboard the source of the line, the further aft in the group on deck it will be
+  found. This is why the leechlines and buntlines belay aft of the clew
+  garnets, clewlines and downhauls.
 
-**2. Sheets for the square sails belay around the mast.** In
+4. **Halyards belay at the main rail.** 
+  Convention 1 still applies. In
+  addition, the square sail halyards belay on opposite sides when you
+  compare fore and main masts. This is a custom that almost
+  certainly comes from the days of fighting sailing ships with large
+  crews. The same sails on each mast could be hoisted at the same
+  time, by large numbers of crew running along the deck working
+  space. The reasoning still holds good.
 
-accordance with convention 1, the lower topsail sheets will be on
+5. **The headsail halyards also alternate from port to starboard.**
+  These halyards compete with the square sails for space at the main
+  rail. The lowest headsail is the fore topmast staysail. The halyard
+  belays at the starboard main rail just abaft of the fore royal lines.
+  The inner jib is next, being on the port main rail, and so on.
 
-the forward side of the mast, followed by topgallant sheets and royal
+6. **Main topgallant sheets belay at the main fife rail.** 
+  Although the
+  main lower topsail sheets belay at the base of the mast to the spider
+  band, the topgallant sheets belay at the main fife rail. This provides
+  easier working access.
 
-sheets being aftermost *(see note #1).* The reasoning is that a ship
-
-on its beam ends (knocked down) in a squall will need to let go
-
-sheets to reduce the pressure of wind on the sails. In such a
-
-situation, if the sheets were belayed to the main rails, the lee ones
-
-may be underwater.
-
-**3. Clew garnets, clewlines, leechlines, buntlines and upper**
-
-**topsail downhauls (the** “\ **gear”) are belayed at the main rail**
-
-**amongst the shrouds.** Lines controlling the course are grouped
-
-together, next aft is the group of lines controlling the lower topsail,
-
-then the upper topsail and so on. Aloft, the further inboard the
-
-source of the line, the further aft in the group on deck it will be
-
-found. This is why the leechlines and buntlines belay aft of the clew
-
-garnets, clewlines and downhauls.
-
-**4. Halyards belay at the main rail.** Convention 1 still applies. In
-
-addition, the square sail halyards belay on opposite sides when you
-
-compare fore and main masts. This is a custom that almost
-
-certainly comes from the days of fighting sailing ships with large
-
-crews. The same sails on each mast could be hoisted at the same
-
-time, by large numbers of crew running along the deck working
-
-space. The reasoning still holds good.
-
-**5. The headsail halyards also alternate from port to starboard.**
-
-These halyards compete with the square sails for space at the main
-
-rail. The lowest headsail is the fore topmast staysail. The halyard
-
-belays at the starboard main rail just abaft of the fore royal lines.
-
-The inner jib is next, being on the port main rail, and so on.
-
-**6. Main topgallant sheets belay at the main fife rail.** Although the
-
-main lower topsail sheets belay at the base of the mast to the spider
-
-band, the topgallant sheets belay at the main fife rail. This provides
-
-easier working access.
-
-**7. Staysails and Jib downhauls** belay close to the ship's centre line
-
-and so will be found on the anchor deck fife rail, fore mast spider
-
-band and the main mast fife rail. They belay on the same side as
-
-their sail’s halyard.
+7. **Staysails and Jib downhauls belay close to the ship's centre line**
+  and so will be found on the anchor deck fife rail, fore mast spider
+  band and the main mast fife rail. They belay on the same side as
+  their sail’s halyard.
 
 Despite these conventions, in nearly every ship you will find a few
-lines
+lines belayed in non conforming places. This may be because the lead is such that the line chafes in its conventional place, or the way the pin rails were constructed, is not strictly traditional.
 
-belayed in non conforming places. This may be because the lead is such
 
-that the line chafes in its conventional place, or the way the pin rails
-
-were constructed, is not strictly traditional.
-
-#\ *1. James Craig royal sheets belay at the main rail rather than at
-the*
-
-*base of each mast. This was due to the mainstay crowding the fore*
-
-*mast spider band, making it virtually impossible to belay the fore*
-
-*royal sheet. It was decided to belay this line at the main rail
-forward*
-
-*of the royal clewline.*
-
-*In order to preserve consistency, the main royal sheet was also*
-
-*belayed at the main rail.*
 
 .. |image0| image:: ./media/image1.png
-   :width: 9.2125in
-   :height: 6.1875in
 .. |image1| image:: ./media/image2.png
-   :width: 10.10347in
-   :height: 6.73194in
 .. |image2| image:: ./media/image3.png
-   :width: 9.98264in
-   :height: 6.66944in
 .. |image3| image:: ./media/image4.png
-   :width: 8.80417in
-   :height: 6.71875in
 .. |image4| image:: ./media/image5.png
-   :width: 9.74583in
-   :height: 6.04722in
 .. |image5| image:: ./media/image6.png
-   :width: 10.32847in
-   :height: 6.2375in
 .. |image6| image:: ./media/image7.png
-   :width: 10.77083in
-   :height: 6.58333in
 .. |image7| image:: ./media/image8.png
-   :width: 6.00139in
-   :height: 4.40139in
 .. |image8| image:: ./media/image10.jpeg
-   :width: 5.34236in
-   :height: 10.54514in
 .. |image9| image:: ./media/image11.png
-   :width: 6.50972in
-   :height: 5.60972in
 .. |image10| image:: ./media/image12.png
-   :width: 6.44167in
-   :height: 4.1625in
+
+.. rubric:: Footnotes
+
+.. [#royalsheet] James Craig royal sheets belay at the main rail rather than at the 
+    base of each mast. This was due to the mainstay crowding the fore
+    mast spider band, making it virtually impossible to belay the fore
+    royal sheet. It was decided to belay this line at the main rail forward
+    of the royal clewline. In order to preserve consistency, the main royal sheet was also*
+    belayed at the main rail.

@@ -51,7 +51,8 @@ Crew to understand the dangers associated with a fire on board and
 become competent in alarm procedures and handling fire fighting
 equipment in the ship.
 
-**FIRE PREVENTION**
+Fire Prevention
+===============
 
 It is the responsibility of all crew to practice fire prevention by
 being vigilant to any situation that could lead to fire.
@@ -60,14 +61,15 @@ Action should be taken immediately to correct any hazardous situation.
 
 Prevention is better than cure, so;
 
-Smoking is only permissible near the foremast.
+- Smoking is only permissible near the foremast.
 
-Keep the ship tidy by disposing of or stow rags and rubbish safely.
+- Keep the ship tidy by disposing of or stow rags and rubbish safely.
 
-Report any damage to Fire Fighting equipment to the Officer of the
-Watch.
+- Report any damage to Fire Fighting equipment to the Officer of the
+  Watch.
 
-**BASIC PRINCIPLES OF FIRE – In brief.**
+Basic Principles Of Fire – In Brief
+===================================
 
 Fire is a chemical reaction. The most common chemical reaction is the
 one between oxygen in the air and flammable vapours released from the
@@ -116,7 +118,8 @@ safely.
 
 Conduction - cool down surfaces.
 
-**EQUIPMENT IN THE SHIP**
+Equipment In The Ship
+=====================
 
 Fire Fighting appliances fitted in James Craig are shown on the Fire &
 Emergency Plan displayed on the port side in the ‘tween deck and near
@@ -139,22 +142,22 @@ Fire Alarm can be initiated verbally, by smoke detector alarm, fire
 alarm, public address system or any means available to attract
 attention.
 
-**ACTION IN THE EVENT OF A FIRE**
+Action In The Event Of A Fire
+===============================
 
-+-----------------------------------------------------------------------+
-| ACTION TO BE CONSIDERED ON DISCOVERING A FIRE.                        |
-|                                                                       |
-| **“ Rescue ”** any person/s in immediate danger.                      |
-|                                                                       |
-| *Only if safe to do so.*                                              |
-|                                                                       |
-| **“ Alarm ”** Raise alarm and follow the ship’s emergency procedure.  |
-|                                                                       |
-| “\ **Contain”** Close doors and hatches to contain fire.              |
-|                                                                       |
-| “\ **Extinguish”** Attempt to extinguish the fire *only if you are    |
-| trained and it is safe to do so.*                                     |
-+-----------------------------------------------------------------------+
+    ACTION TO BE CONSIDERED ON DISCOVERING A FIRE.
+
+     **“Rescue”** any person/s in immediate danger.
+
+     *Only if safe to do so.*
+
+     **“Alarm”** Raise alarm and follow the ship’s emergency procedure.
+
+     **“Contain”** Close doors and hatches to contain fire.
+
+     **“Extinguish”** Attempt to extinguish the fire *only if you are
+     trained and it is safe to do so.*
+
 
 If any member of the ship’s company discovers smoke or a fire, they must
 immediately raise the Alarm shouting loudly the words "Fire, Fire, Fire"
@@ -182,7 +185,8 @@ fire.
 The closing of special doors e.g. Engine room doors, in the event of
 fire are set out in respect to each compartment.
 
-**CREW RESPONSE TO FIRE EMERGENCY**
+Crew Response To Fire Emergency
+===============================
 
 Fire Party crew, as shown on crew cards, will immediately report to the
 fire assembly point.
@@ -190,9 +194,11 @@ fire assembly point.
 Crew who have not been designated to Fire Party duties on their Crew
 Cards, will immediately report to their emergency station.
 
-**BASIC FIRE FIGHTING STRATEGIES**
+Basic Fire Fighting Strategies
+==============================
 
-**First attack Strategy**
+First attack Strategy
+---------------------
 
 For example, at a very small fire in the ship a first-attack strategy
 may be used.
@@ -208,13 +214,16 @@ fire fighting equipment, such as hose lines, would be required.
 ***A first-attack strategy may be used by crew who are trained to use
 fire extinguishers.***
 
-**Second attack Strategies.**
+
+Second attack Strategies.
+-------------------------
 
 These attacks should only be undertaken at the direction of an officer
 or fire party leader due to complexities of the ship environment. i.e.
 Confined spaces, ship stability etc.
 
-**FIRE EXTINGUISHERS**
+Fire Extinguishers
+==================
 
 Training and practice are the only effective ways to become familiar
 with using extinguishers. Some general guidelines are given below.
@@ -224,7 +233,8 @@ with using extinguishers. Some general guidelines are given below.
 Remember Fire Buckets at the break of the quarter deck are there to be
 used.
 
-**Water Extinguishers (Red Colour)**
+Water Extinguishers (Red Colour)
+--------------------------------
 
 Water extinguishers (Red Colour) should be used only for Class A fires
 (Wood, paper & plastic). The range of the discharge is about 6 metres
@@ -244,7 +254,8 @@ intense.
 
 |image1|
 
-**Carbon Dioxide** **(C0:sub:`2`) Extinguishers (Black Band)**
+Carbon Dioxide (C0:sub:`2`) Extinguishers (Black Band)
+------------------------------------------------------
 
 Mainly for use on fires involving electricity and small Class B
 (Flammable and combustible liquids) fires. Range of discharge is only
@@ -259,7 +270,8 @@ discharged.
 
 |image2|
 
-**Powder Extinguishers (White Band)**
+Powder Extinguishers (White Band)
+---------------------------------
 
 Mainly for use on Class B (Flammable and combustible liquids) fires, but
 can be used on some other types, including fires involving electricity.
@@ -276,27 +288,30 @@ messy powder residue, which, may damage sensitive equipment.
 
 |image3|
 
-**HOSE LINES**
+
+Hose Lines
+==========
 
 The ship is equipped with 6 hose lines which are fed from two pump
 systems.
 
-**Pump Systems**
+Pump Systems
+------------
 
 Two pumping systems are on board.
 
 1. In the engine room there are two electric pumps which can be used for
-multiple purposes.
+   multiple purposes.
 
-. Bilge pumps
+  - Bilge pumps
 
-. Fire pumps
+  - Fire pumps
 
-The port pump is set up for fire and the starboard pump as a bilge pump.
+  The port pump is set up for fire and the starboard pump as a bilge pump.
 
 2. A stand alone diesel engine pump is located in the lower hold,
-forward on the starboard side. This pump can be used for fire fighting
-or as a bilge pump.
+   forward on the starboard side. This pump can be used for fire fighting
+   or as a bilge pump.
 
 Pumps are switched on by an engineer, officer or watchleader.
 
@@ -307,7 +322,8 @@ could lead to ship instability due to free fluid movement.
 Module 16, pages 17 to 28 contains information on Engine Room Fire and
 General Service Pumps and Emergency Fire and Bilge Pump.
 
-**Hoses**
+Hoses
+-----
 
 Location of hose lines are shown on the Ship’s Fire and Emergency Plan.
 
@@ -324,7 +340,7 @@ from the fire.
 To stow;
 
 - lay hose out on the deck double with the ends off set by approximately
-one metre.
+  one metre.
 
 - the short end on top.
 
@@ -334,7 +350,10 @@ one metre.
 
 - replace in rack.
 
-**FIRE PARTY**
+
+Fire Party
+==========
+
 
 The Fire Party is made up of a Leader and 4 crew, under the direction of
 an Officer.
@@ -368,7 +387,9 @@ The patrol will look out for;
 
 Members of the fire party DO NOT CLIMB.
 
-**GUIDE FOR FIRE PARTY LEADER**
+
+Guide For Fire Party Leader
+===========================
 
 - Establish fire party meeting point.
 
@@ -376,26 +397,26 @@ Members of the fire party DO NOT CLIMB.
 
 - Check all equipment;
 
-Protective clothing.
+    Protective clothing.
 
-Torch
+    Torch
 
-Hose reels
+    Hose reels
 
-Fire extinguishers
+    Fire extinguishers
 
-Fire buckets
+    Fire buckets
 
-Radio
+    Radio
 
 - Walk the ship each hour, main deck, ‘tween deck, hold and all closed
-compartments i.e. engine room, etc. Start patrol at chart room by
-checking the log for possible hazards etc noted by previous patrol.
+  compartments i.e. engine room, etc. Start patrol at chart room by
+  checking the log for possible hazards etc noted by previous patrol.
 
 - Fire party/patrol radio lives in the deckhouse. Patrol collects the
-radio at commencement of patrol and returns it to the deckhouse after
-completing patrol. This enables the patrol to immediately report any
-problems they find to the Officer of the Watch.
+  radio at commencement of patrol and returns it to the deckhouse after
+  completing patrol. This enables the patrol to immediately report any
+  problems they find to the Officer of the Watch.
 
 - Look out for potential hazards and fix/report.
 
@@ -417,87 +438,94 @@ problems they find to the Officer of the Watch.
 
 - Return Radio to its holder in the deck house.
 
-**FIRE INCIDENT PROCEDURES**
+Fire Incident Procedures
+========================
 
 In the event of a fire, the following **immediate actions** are to be
 carried out:
 
-    **Person Discovering the Fire**
+**Person Discovering the Fire**
 
-    If possible, attack the fire with an appropriate extinguisher
+If possible, attack the fire with an appropriate extinguisher
 
-    Evacuate the compartment, shutting the door/hatch
+Evacuate the compartment, shutting the door/hatch
 
-    Raise the alarm.
+Raise the alarm.
 
-    Report the fire to the OOW.
+Report the fire to the OOW.
 
-    **Officer of the Watch**
+**Officer of the Watch**
 
-    Sound the General Alarm and broadcast:
+Sound the General Alarm and broadcast:
 
-    *Emergency Stations, Emergency Stations, Emergency Stations,*
+*Emergency Stations, Emergency Stations, Emergency Stations,*
 
-    *Fire, Fire, Fire*
+*Fire, Fire, Fire*
 
-    *Fire in the ………*..
+*Fire in the...*
 
-    *Shut down all ventilation*.’
+*Shut down all ventilation*.’
 
-    The OOW is to manoeuvre the ship as required to reduce the wind over
-    the deck and/or the ship’s motion.
+The OOW is to manoeuvre the ship as required to reduce the wind over
+the deck and/or the ship’s motion.
 
-    **Incident Control**
+Incident Control
+----------------
 
-    Second Mate Go to the scene of the fire and assume the role of
-    Incident Coordinator. Establish communications with the quarter
-    deck.
+Second Mate 
+  Go to the scene of the fire and assume the role of
+  Incident Coordinator. Establish communications with the quarter
+  deck.
 
-    Chief Engineer Start the fire and bilge pumps
+Chief Engineer 
+  Start the fire and bilge pumps
+  
+  Start the second generator
+  
+  Go to the scene of the fire and make an engineering assessment.
 
-    Start the second generator
+  Isolate power and shut off fuel as directed by the Incident
+  Controller.
 
-    Go to the scene of the fire and make an engineering assessment.
+Crew I/C of Fire Party 
+  muster the fire party.
+  
+  Ensure personnel are correctly dressed and the appropriate fire
+  fighting appliances are present.
 
-    Isolate power and shut off fuel as directed by the Incident
-    Controller.
+  Report to the Incident Controller.
 
-    Crew I/C of Fire Party muster the fire party.
+Fire Party members 
+  Get dressed in protective clothing.
 
-    Ensure personnel are correctly dressed and the appropriate fire
-    fighting appliances are present.
+  Go to the location indicated in the broadcast.
 
-    Report to the Incident Controller.
+  Fight the fire as directed by the Crew I/C of the Fire Party.
 
-    Fire Party members Get dressed in protective clothing.
+Medical & Stretcher Party
+  Muster at the deckhouse.
 
-    Go to the location indicated in the broadcast.
+  Assemble equipment.
 
-    Fight the fire as directed by the Crew I/C of the Fire Party.
+  Await instructions.
 
-    Medical & Stretcher Party
+Other Positions
+---------------
 
-    Muster at the deckhouse.
+First Mate Take over the Watch on the Quarter Deck.
 
-    Assemble equipment.
+Third Mate Establish the ship’s position and standby to transmit a
+Pan Pan or May Day on VHF Ch 16 or HF 2182
 
-    Await instructions.
+Second Engineer Take over the engine throttles on the quarterdeck.
 
-    **Other Positions**
+Chief Steward Muster the passengers in accordance with the manifest
+and report the numbers to the First Mate.
 
-    First Mate Take over the Watch on the Quarter Deck.
+Remaining Crew Muster in watches at Muster Stations.
 
-    Third Mate Establish the ship’s position and standby to transmit a
-    Pan Pan or May Day on VHF Ch 16 or HF 2182
-
-    Second Engineer Take over the engine throttles on the quarterdeck.
-
-    Chief Steward Muster the passengers in accordance with the manifest
-    and report the numbers to the First Mate.
-
-    Remaining Crew Muster in watches at Muster Stations.
-
-**Considerations in Fighting the Fire**
+Considerations in Fighting the Fire
+-----------------------------------
 
 In fighting the fire, the Incident Controller is to consider carrying
 out the following as soon as practical:
@@ -517,7 +545,9 @@ out the following as soon as practical:
 -  In the event of an Engine Room fire, consider drenching the space (to
    be approved only by the Master).
 
-**Considerations when the Fire has been Extinguished**
+
+Considerations when the Fire has been Extinguished
+--------------------------------------------------
 
 -  Assigning a fire sentry
 
@@ -529,28 +559,29 @@ out the following as soon as practical:
 
 -  Debriefing of the ship’s company
 
-**FIRE EXTINGUISHER SELECTION**
+Fire Extinguisher Selection
+===========================
 
-| **A labeling system** uses standard pictorial symbols which show the
-  class
-| or classes of fire for which the extinguisher is suited. The symbols
-  identify the type of fire the extinguisher can be used for.
+**A labeling system** uses standard pictorial symbols which show the
+class
+or classes of fire for which the extinguisher is suited. The symbols
+identify the type of fire the extinguisher can be used for.
 
-| **Note:** A red slash stroked through any of the fire classification
-  symbols means it is
-| unsafe to use that extinguisher on that class of fire. For example, a
-  water-filled extinguisher would show the symbols for Class B and C
-  fires slashed through as water should never be used to extinguish a
-  flammable liquid or an electrical fire.
+**Note:** A red slash stroked through any of the fire classification
+symbols means it is unsafe to use that extinguisher on that class of fire. For example, a
+water-filled extinguisher would show the symbols for Class B and C
+fires slashed through as water should never be used to extinguish a
+flammable liquid or an electrical fire.
 
 If a symbol is not shown on the extinguisher's label, it simply means
 the extinguisher was not tested for that class of fire.
 
-**FIRE EXTINGUISHER SELECTION CHART**
+Fire Extinguisher Selection Chart
+=================================
 
 |image5|
 
-    For your notes;
+
 
 .. |image0| image:: ./media/image1.wmf
    :width: 2.20903in
