@@ -78,7 +78,7 @@ fuel.
 The components necessary for a fire to burn, or continue to burn, are
 illustrated in the fire triangle below.
 
-|image0|
+|fire-triangle|
 
 Combustion is a process of oxidation i.e. a combination of oxygen and a
 substance.
@@ -583,9 +583,7 @@ Fire Extinguisher Selection Chart
 
 
 
-.. |image0| image:: ./media/image1.wmf
-   :width: 2.20903in
-   :height: 1.86319in
+.. |fire-triangle| image:: ./media/Fire_triangle.*
 .. |image1| image:: ./media/image2.png
    :width: 5.77083in
    :height: 2.85in
